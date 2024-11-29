@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Exécuter un script Python</title>
+    <script>
+        async function runPythonScript() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/run_script', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+                const result = await response.json();
+                alert(result.message);
+            } catch (error) {
+                console.error('Erreur:', error);
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="runPythonScript()">Lancer le script Python</button>
+</body>
+</html>

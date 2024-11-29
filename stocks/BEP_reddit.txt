@@ -1,0 +1,837 @@
+Title : $PYPL (PayPal) - Q1 2018 VS Q1 2023
+*Disclosure: I have a small position in PayPal which I opened last year at a BEP of $88, and I'm considering to invest significantly more at this current price of $64.*
+
+Looking back 5 years ago in 2018 when PayPal released their Q1 earnings report at the time, the business was valued slightly more (\~$80B) than what it's valued at today (\~$71B) after their 2023 Q1 earnings report.
+
+However, the numbers tell a story of a completely different business.
+
+**Revenue**: $3.69B VS $7.04B (\~90%+)
+
+**TPV**: $132B VS $354B (\~168%+)
+
+**FCF**: $737M VS $1B (\~35%+)
+
+**OM**: Flat on Non-GAAP and GAAP
+
+**EPS**: $0.57 VS $1.17 (\~105%+ Non-GAAP) | $0.42 VS $0.7 (\~66%+ GAAP)
+
+The business is guiding for lower top-line quarter on quarter at 7-8% now VS 16-18% 5 years ago.
+
+Fundamentally though, how is it possible for this business to be so punished by the market? Am I missing something or should I be unloading big bucks on PayPal? Based on their EPS forecast of $4.95 this year (up 20% from the year before), it now trades at a forward price-to-earnings (P/E) ratio of **13**...
+
+Is it that PayPal was so disgustingly overvalued in 2018 that the valuation is now normalised? Or is the market pricing in an imminent top/bottom line decline (which is contradicting to PayPal's guidance)?
+
+I just don't see it. I see a market that is punishing a strong performing company for not being sexy or milking the term "AI".
+
+*Sources:*
+
+[*https://s201.q4cdn.com/231198771/files/doc\_financials/2018/q1/PYPL\_News\_2018\_4\_25\_General\_Releases.pdf*](https://s201.q4cdn.com/231198771/files/doc_financials/2018/q1/PYPL_News_2018_4_25_General_Releases.pdf)
+
+[*https://s201.q4cdn.com/231198771/files/doc\_financials/2023/q1/Q1-23-PayPal-Earnings-Release.pdf*](https://s201.q4cdn.com/231198771/files/doc_financials/2023/q1/Q1-23-PayPal-Earnings-Release.pdf)
+
+&#x200B;Comment by JudgmentMajestic2671: I'm blown away by the beat down that it's getting. This is a $100 stock all day long. Holding. Buying more at $60
+Comment by creemeeseason: I'd say it is more likely that it was drastically overvalued then as opposed to undervalued now. 
+
+IPOs tend to be expensive, and 2018 was in the boom times. 
+
+Also, what multiple would be suitable for PayPal? It's a payment processor with high single digit growth. There's a lot of payment processors out there trading in the low teens. AXP, CASS, are two that I can think of in the same range. 
+
+Maybe that's their big problem: what is PayPal? I think it's hard to make the case that they are in the level of V or MA. Those are juggernaut companies. So maybe a low to mid teens multiple is suitable for pypl? If they really find a way to monetize Venmo, I could see the argument for more. 
+
+That all said, I think it's probably oversold right now and we're seeing peak PYPL hate, so if you think it's a good company, this is probably the time to buy. I could easily see the case it outperforms from here.
+Comment by gimmetheloot2p2: I felt this way about Meta at 100.  Didnt pull the trigger.  Seems like a good buy IMO.
+Comment by app_priori: I like the PayPal ecosystem. Their branded Mastercard (offered through Synchrony) has become much better now that they offer 3% cashback on all purchases made online via PayPal. However, there's a lot of competition out there for mobile payments. That said, I still like receiving payments through PayPal and have been using them for nearly 13 years. No complaints here as a customer. 
+
+I think PayPal is fairly valued at this point, it's probably not going to move very much, its business is very mature.
+Comment by IllustrationArtist0: They need to insert he code word “ AI” into their earnings call. Otherwise, it will be just paypal🤷
+Comment by CTRM_: I agree, the current low price just doesn't make any sense.
+Comment by georgejk7: Watching this post
+Comment by None: [removed]
+Comment by None: PYPL lost its first to market advantage and now must compete on pricing and features. Current economic conditions are creating headwinds on multiple fronts, internally and externally.
+Comment by Dstein99: I own a small position in PYPL, I probably won’t sell it at this level but I probably won’t buy more either. The company is cheap for a reason, I don’t know how much they will grow into the future, but this company wouldn’t be a bad zombie company. The problem with financial companies is there is very little margin because there is hyper competition and low barrier to entry. 
+
+When I bought PYPL over a year ago I viewed it as PayPal is the company that you use for online shopping when you don’t want to give your credit card out to every website. I did not see Apple Pay coming as a competitor in this aspect, today I see pay with credit card, pay with PayPal, pay with Apple Pay. Both will satisfy this security concern and I don’t see any advantage to paying with PayPal vs Apple Pay. 
+
+The reason I still hold it is that I don’t think they will decline revenues/profit, they just won’t grow like they used to and a 14 P/FCF isn’t a bad price to pay for them. Plus from what I have heard PayPal charges a high payment processing fee, it’s a good position to be in where the buyer chooses the method and the seller pays the fee, if the seller gets a lot of purchases through PayPal they may be hesitant to switch to a cheaper option. I expect this to go down eventually as competition picks up, but for now and the next couple years they can have the higher premium.
+Comment by Disastrous_Heat_9425: I guess we'll see what happens when PayPal sends out tax forms next year to private sellers.
+
+As a consumer, PayPal offers great payment plans that many of the end users find attractive, but now that private sellers will see sells as taxable income, a chunk of the market that actually pays fees for PayPal service will disappear. Many have already moved away from the service, and others will most likely do so after the first tax form hits the mail.
+Comment by RingoBingoJim: PYPL really looks oversold to me after earnings call. Can‘t explain to me this huge over reaction of the market. Since June 22 the market seems to load up it‘s pockets and after a good earnings call the market dumps it. WHY?! Paypal is huge in Europe and people used it many years so there is a lot of trust. In my opinion trust in the financial industry is a crucial factor like in the case of MasterCard or Visa. I think PYPL came to stay and will grow constantly. Especially the new CEO can be Important factor for PYPL. I‘m loading up on PYPL on this levels feels like a steel for me.
+Comment by rashnull: Pushed bard to make a best guess on where the stock is headed:
+
+My best guess is that PayPal stock will go up in the long term. The company is well-positioned to benefit from the continued growth of e-commerce and mobile payments. PayPal is also investing heavily in new growth areas, such as cryptocurrency and BNPL, which could help the company to maintain its competitive edge.
+However, there are some risks that could affect PayPal's stock price in the short term. The company is facing increasing competition from other payment providers, and it is also seeing slower growth in its core e-commerce business. Additionally, PayPal is investing heavily in new growth areas, which could weigh on the company's profitability in the near term.
+Overall, I believe that PayPal is a good long-term investment. The company has a strong track record of innovation and growth, and it is well-positioned to benefit from the continued growth of e-commerce and mobile payments. However, investors should be aware of the risks that could affect the company's stock price in the short term.
+Comment by feedmestocks: Stocks are forward facing, that's the fundamental nature of them. PayPal is seen as the next victim of megatech (along with reduction in spending and other things)
+Comment by DerTagestrinker: It was valued at substantial growth, probably assuming the vast majority of all internet payments in the future would be through PayPal. Now internet payment companies are a dime a dozen with zero moat.
+Comment by None: Before Paypal was valued like a tech company, however it is dinosaur company. There’s a ton of competition, companies do their own payment methods now. They don’t offer something special anymore.
+Comment by cranberrydudz: PayPal losing its exclusivity with ebay cost them soooooo dearly
+Comment by SpongeBobSpacPants: What is their moat? As a customer, what is my incentive to use or stay with PYPL? 
+
+First and foremost, the growth has just slowed. You’re showing revenue and EPS numbers from 2018, but market is forward looking. 1% user growth and 6% revenue growth? That’s slow for a “growth” company. What’s actually happened is this stock is in limbo. It’s not growing fast enough for growth investors, not cheap enough for value investors. It’s maturing, and it’s usual investors don’t like that. 
+
+The markets concern is that the business getting commoditized. Go to any online check out, you have a credit card option, PayPal, Apple Pay, Google pay, Amazon pay, Square, Afterpay, Zelle…etc etc. So many players (not to mention massive players) in this space offer the exact same thing, with no tangible advantage. In fact, Apple Pay is easiest and the one most people use now. Instead of logging into my PayPal account, I can pay by clicking my lock button twice and using FaceID. As more and more commerce is done on mobile, they are relying on people using their competitors hardware (AAPL and GOOG) to use their product. Not a good position to be in and not an environment you can grow your margins in.
+Comment by None: Stripe is direct competitor for Paypal and that two with much much better Developer API and nearly half the transaction fees. 
+
+I am a developer and I wouldn’t touch Paypal from miles away. I will just integrate Stripe and let Stripe handle all kinds of payments
+Comment by leveredarbitrage: It needs to fall 66% more to be in the deep fucking value point that Meta was at a fe months ago
+Comment by foofuckingbar: Put
+Comment by Whythehellnot_wecan: I dunno.  Bought some Weds at $64.22 and decided this morning at $63.70 the market is gonna do what the market gonna do, I have no idea, but don’t want to be on the ride with this one.  
+
+The chart has the classic super hump thru Covid that a lot of companies do.  Granted these prices go way back to 2017 so it appears cheap at face value. But it’s future growth prospects were a lot higher back then.  
+
+Personally I never used PayPal.  Perhaps part of the story is a market reaching a higher level  of saturation.  I have no idea but eesh catching falling knives is hard.  Sometimes it pays but often you get cut.  
+
+If I heard correctly they even said AI and finding cost efficiencies (layoffs?) in the conference call which have been the two magical words and that didn’t even help.  Seems like a trap.  Dunno
+Comment by sloppypotatoe: I'd say you're missing the fact that PayPal sucks and is a dying company. Most people don't use it or want to use it anymore, basically in the last 5 years I've noticed nobody caring for it and using many other platforms instead. I'd personally take that loss and be pleased it was only so ...
+Comment by After-Result2604: Payment processing is going to get a lot of competition from crypto in the coming years.
+Comment by None: There are better businesses trading at better multiples and there are better investment options paying out cash returns
+
+Isn’t a single situation where I’d recommend PayPal to any of my clients
+Comment by Atriev: Unless PayPal’s price is shot so bad that it becomes a valuation play, I am not interested. There are significantly better opportunities in my opinion and I don’t think the investment thesis on PYPL is compelling enough.
+Comment by ravepeacefully: People who have used PayPal know why the company is done. It’s just a bunch of scammers sending you fake invoices
+Comment by Realistic_Record9527: Eps forecast 4.95$ non gaap and 2.9$ gaap so p/e forward 22 for gaap is not so much cheap
+Comment by None: Too many competition
+Comment by MurkyButtons: Not sure you can compare those two snapshots given the drastic change in the fintech space over the past 5 years.
+
+I don't think PYPL was particularly overvalued in Q1 2018 - just look at the financials & share price until COVID hit in Q1 2020.
+
+I do think it's a bit oversold now and could have a slight rebound. But, the macro economic conditions and much more competitive landscape now limits the upside to a much lower P/E relative to 2018 (would not expect a return to $90 for quite some time).
+Comment by Loose-Gas-7969: The story about competition is nothing that changed with the earnings call and comes up just because it's down. It has to be the lower guidance and fear of reduced future performance. It's probably an overreaction since PYPL often lowers guidance and beats it afterwards.  
+
+That being said, if a recession hits PYPL will suffer, if not or only mildly, it's a good investment.
+Comment by roubzzzz: Paypal has a lower pe ratio than wastemangment,best buy, IBM and many other who are growing revenues at 2 3 % and earning at 5%. I am long on paypal bought at $110 I still dnt understand why it's trading at 12 times earning with the earning growth of double digit. Even if they hold on to market share and buy back stocks and with 3 4% inflation it will still grow revenues at 4 % and even if you give the multiple of 13 for this year it should be at @65
+Comment by BumblebeeHuman5699: Fuck pypal just let them die
+Comment by TheDudeAbidesFarOut: This. The amount of downgrades after that earnings is screaming the institutions want in cheap, and plan to go loooooooong....
+Comment by Bajeetthemeat: Still buying?
+Comment by lightinvestor: AXP is in the teens because it holds the debt of its card holders. They're not comparable.
+Comment by raidmytombBB: I felt the same with INTC at $40 after reading so many posts here on it being a value stock and don't go down further.  It then proceeded to drop to $25.  Not saying PYPL is INTC but it also isn't META.  So that by itself shouldn't be the reason you decide to buy PYPL.
+Comment by SmallCapsOnly: AI cost savings potential could lead to more growth on bottom line.
+Comment by R4N7: Rebranding to “pAiPal” stock +40%
+Comment by wilstreak: give their conference call a try, Schullman managed to mention AI 5 times in span of 2 minutes from the beginning
+Comment by ExcellentAd2605: What have you found
+Comment by vada_buffet: Can you explain this more? Which Paypal service are you talking about - is it the POS business? And "sells" are referring to purchases made on the POS by their customers?
+Comment by iBifteki: I'm also interested in this, could you elaborate and provided some sources on the implications of this? Thank you.
+Comment by Shotgun516: It’s pretty huge in other countries like Brazil too
+Comment by rashnull: And here’s her best guess for an acquisition:
+
+My best guess is that the most likely company to acquire PayPal is Amazon. Amazon is a tech giant with a strong focus on e-commerce. PayPal's payment processing capabilities would allow Amazon to expand its e-commerce offerings and reach new customers. Additionally, PayPal's strong brand and customer base would give Amazon a competitive edge in the global payments market.
+
+Here are some reasons why Amazon might be interested in acquiring PayPal:
+
+* PayPal is a leading player in the global payments market, with over 392 million active accounts. Acquiring PayPal would give Amazon a significant increase in market share.
+* PayPal has a strong customer base of over 392 million active accounts. Acquiring PayPal would give Amazon access to a large and loyal customer base.
+* PayPal operates in over 200 countries and territories. Acquiring PayPal would give Amazon a global reach.
+* PayPal is a profitable company with a strong track record of growth. Acquiring PayPal would improve Amazon's financial performance.
+
+Of course, there are also some risks associated with acquiring PayPal. These risks include:
+
+* High price tag: PayPal is a valuable company, and its acquisition would likely be expensive.
+* Integration challenges: Integrating PayPal's operations and systems could be challenging.
+* Regulatory scrutiny: Acquiring PayPal could attract regulatory scrutiny.
+
+Overall, the decision of whether or not to acquire PayPal is a complex one. There are both potential benefits and risks associated with the acquisition. Amazon should carefully consider all of these factors before making a decision.
+Comment by FarrisAT: Why's that? 
+
+Meta was 15 forward P/E in October 2022 with investments of $30 billion into cash burning money pits. Simply cutting those investments has boosted the stock. 
+
+PayPal is at 18 forward P/E with net $12 billion cash and flat investment growth. 
+
+PayPal could simply use all its FCF over the next 4 years to pay back every shareholder completely. If the company earns profit in 2027, I pocket the profit.
+Comment by clownysf: Two days and a 50 cent decrease made you change your mind? You should probably be doing more due diligence before buying stocks, if that’s the case. You shouldn’t 180 that quickly over nothing, it’s a waste of resources.
+Comment by app_priori: It's going to cost money to integrate machine learning. It might take a while before those investments bear fruit.
+Comment by krakends: Except active users have increased YoY.
+Comment by wilstreak: man, do i remember people preaching about "no one use Facebook anymore"....
+Comment by Tfarecnim: No it's not, I've been hearing this for almost a decade.
+Comment by solanawhale: How? Crypto is literally a much slower and more expensive, unreliable payment system. 
+
+No one is using crypto to make payments (outside of paying ransomware).
+Comment by WBuffettJr: Fun fact: Bitcoin is older than the iPad. THE IPAD. Bitcoin was here first. And still nobody uses it for shit. Except money laundering. And even that is getting less effective. But I for one welcome the crypto scam because it keeps a lot of guys money out of the stock market, making quality companies cheaper for me.
+Comment by FarrisAT: I'd love to know what businesses 
+
+PayPal is priced like Intel & Meta in October 2022. 
+
+Intel fumbled miserably while also investing more to gain government subsidies. Meta cut investments and refocused their business on AI-assisted ads. 
+
+PayPal could follow either path. But I would note that Intel is up 30% this year and Meta up 100%. Sure Intel turned out way worse and is flat overall, but it's not drilling a massive hole either... Because it's cheap as hell already
+Comment by Overall_Special_5935: Which bussinesses?
+Comment by FarrisAT: Tells me 18 Forward GAAP P/E 
+
+That's where Meta was in December 2022.
+Comment by JudgmentMajestic2671: Yup. Selling ATM CCs everytime it pops. I've made thousands on PayPal this year.
+Comment by creemeeseason: It's a valid point. I just can't think of a better comp. AXP also has higher ROE, pays a dividend, and has a history of lowering it's share count. So there's both sides.
+Comment by FarrisAT: To be fair, Intel is literally a cyclical stock in a cyclical industry. 
+
+PayPal is primarily exposed to economic recession and lower spending. But so is Intel and Meta
+Comment by FarrisAT: To be fair, Intel is literally a cyclical stock in a cyclical industry. 
+
+PayPal is primarily exposed to economic recession and lower spending. But so is Intel and Meta
+Comment by FarrisAT: To be fair, Intel is literally a cyclical stock in a cyclical industry. 
+
+PayPal is primarily exposed to economic recession and lower spending. But so is Intel and Meta
+Comment by R4N7: Gamble
+Comment by None: [deleted]
+Comment by Disastrous_Heat_9425: I don't have any sources off the top of my head, but PayPal received a lot of backlash from the private selling community when they initially announced that personal sells using their goods and service feature would be taxed as income if a total of $600 is received within a year. Before, I believe the threshold was $20,000. The plan was announced a year or two ago, but after the backslash, the company decided to postpone the new policy. However, as of January 2023, the policy is now in effect, and I believe it's the 1099 forms that will be sent out to anyone who matches the description.
+
+I have been using PayPal for many years because I buy and collect swords. Part of the collecting process is occasionally selling items I no longer want to fund future purchases. Now that these items will be taxed, the process of hobby buying and selling has become more complicated and expensive. I'm not trying to run a business where I need to keep track of profits or losses, so finding other methods for selling transactions is necessary. Unfortunately, many people trust PayPal because of buyer protection, and it can be difficult to convince potential buyers to use other methods of online payment systems. I am slowly moving away from accepting PayPal as a payment system, and hopefully, the sword community jumps on board to keep the IRS out of our private sales.
+Comment by devopsy: Amazon already has global reach. Why would it need PayPal ? I don’t think Amazon would even consider it. May be a best for eBay.
+Comment by Whythehellnot_wecan: If it holds  $64 caught the falling knife about 3 days after earnings and things should/could settle out.  Loses $64 I was wrong.   Looks like a test $60 now.  Not gonna bet if it holds or not.
+
+Edit:  this was Friday. Tuesday closing price $60.80.
+Comment by sloppypotatoe: So have active Twitter accounts, but most of those are just bots.
+Comment by sloppypotatoe: I don't personally, other than the marketplace once every few months ...
+Comment by After-Result2604: Its already happening, because you don't know about it does not mean it does not exist.
+Comment by clownysf: There are small use cases now in countries with extremely high inflation on their currency. I’ve heard of crypto being used for payments in Venezuela on multiple different occasions. But wide-spread use? I don’t see it yet
+Comment by OrderlyPanic: Intel is not up 30% this year they closed at 26.43 to end last year and closed at 28.95 Friday. They are down 33% compared to 1 year ago from today.
+Comment by DominatingLobster: ROE is pretty dangerous. Think about it mathematically, all you need to do to “improve” ROE is to just take on more debt (reduce denominator). ROTCE is pretty much only a good metric for banks since deposits are effectively an input for their loans and they are being paid to arbitrage the difference, like how AXP does. PayPal has been pretty prudent with their stock buybacks. When their stock was high during the pandemic, they purchased other companies with a combination of cash and stock, now that stock has dropped so low, they’re dedicating 4 billion of their FCF to buybacks. Pretty prudent decisions by management all things considered.
+Comment by KennanCR: Lmao this is one of the best troll posts I’ve ever seen. It probably won’t get any recognition, but well done
+Comment by occasional_handshake: This is his fight with PYPL
+Comment by vada_buffet: Ah, this is the IRS $600 Reporting Rule. Does not seem unique to Paypal, I guess every platform will have to send this out. Where are the sellers moving to avoid this tax form?
+Comment by Banana_Havok: The new rule wasn’t set by PayPal. It was a decision Biden made to lower that threshold. It applies to all online payments/sales, whether it’s PayPal, eBay, Etsy.. as long as the payment is classified as Goods& services.  
+
+Truth be told, yes there is more paperwork now but if you’re a small time seller it shouldn’t discourage you from selling online. If you aren’t making money on a sale you don’t owe taxes on it and as a 1099 you can deduct other expenses from your income. If you have an office you use for your eBay business you can deduct that portion of your mortgage payment to lower your tax liability. Similarly.. portions of your Internet, phone, etc.
+Comment by Weaponsonline: Just because you believe it, doesn’t actually make it true.
+Comment by solanawhale: I mean they can convert their local currency to USD if they’re concerned with inflation. 
+
+Converting to a highly volatile asset is not a very smart idea.
+Comment by creemeeseason: Those are all fair points. I don't think any one specific number is all telling. I was more looking to find something similar to compare PYPL to. AXP is stronger in some areas, and has weaknesses that PYPL does not. Generally, they are payment processors and generally should see similar multiples. 
+
+You can make arguments that one is better than the other, and that's fun too, but they will probably be valued similarly. Saying PayPal deserves a 30x while AXP deserves a 12x would be silly, or vice versa.
+Comment by creemeeseason: Thanks?
+Comment by Disastrous_Heat_9425: Thank you for the clarification.
+
+I will look into this further to utilize the deductions.
+Comment by BhristopherL: I’m not a ruthless crypto advocate and don’t currently hold any, but he is right. Payment services like Strike, Shakepay (in Canada), etc, are absolutely picking up steam.
+
+I won’t say it’ll ever displace the traditional payments industry, but crypto payments and self-custody is growing dramatically in use.
+Comment by After-Result2604: So if I wanna buy something, ask the store owner for his wallet adress and send him his desired amount in whatever shitcoin. That is not a payment process?
+Comment by clownysf: You’re assuming that local vendors accept USD. Not always the case.
+Comment by DominatingLobster: I don’t even think they should be valued similarly tbh, they sit at completely different parts of the payment stack. PayPal is primarily a payment gateway/acquiring processor (via PayPal and Braintree) with some SAAS offerings for merchants and consumers (via Honey). AXP is an issuing bank and card network. So AXP should be valued as a hybrid between a bank and a network pure play like V or MA. While paypal should be viewed as some hybrid between SAAS and payment gateway.
+Comment by Banana_Havok: Yes for sure. My wife isn’t currently working but we are opening an eBay store in her name to sell off household items and hope to put that money into a roth or personal 401k. If you’re tax savvy there are tons of ways to prep for retirement even with the new threshold.
+Comment by LiberalAspergers: The cost you paid for the items is deductable, as are you shipping costs, storage costs, etc. As are your PayPal fees.
+Comment by None: They don't accept USD but they accept crypto?
+Comment by creemeeseason: That's a fair and interesting take on it! I can't say your wrong, they're all valid points. I hope it works out for you if you own PayPal!
+Comment by LiberalAspergers: Maybe SQ or WU as a comparison.
+Comment by clownysf: https://www.reddit.com/r/litecoin/comments/13anmdd/i_paid_at_the_supermarket_directly_with_litecoin/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+
+Looks like I misremembered, but according to this guy’s comments a lot of Venezualans are accepting of crypto because of how badly bolivares have burned them.
+Comment by DominatingLobster: Thanks! I actually just entered a position today. If you are short, congrats so far.
+Comment by creemeeseason: I am not. I don't short. Good luck to you, I hope I'm wrong!
+Title : Sale question
+I have a bunch of random individual stocks I bought over the last 2-3 years. I would like to sell them and buy ETF’s, but I don’t want to end up paying a bunch of taxes. I am down 8.6% in the last three years, if I sell the stocks at a loss, do I still get taxed on them?
+
+SiriusXM (SIRI): 10 shares; bought at $6.36/share; current value $3.65/share; Loss of $29.10
+
+AT&T (T): 8.28 shares; bought at $28.60/share; current value $18.13/share; Loss of $86.62
+
+Brookfield Renewable Partners (BEP): 6.06 shares; bought at $30.97/share; current value $29.10/share; Loss of $11.36
+
+Coca-Cola (KO): 5.44 shares; bought at $47.44/share; current value $60.02/share; Gain of $68.44
+
+Nikola (NKLA): 6 shares; bought at $27.14/share; current value $1.70/share; Loss of $152.62
+
+Delta Air Lines (DAL): 4 shares; bought at $23.28/share; current value $32.96/share; Gain of $38.72
+
+Cinemark (CNK): 4 shares; bought at $12.58/share; current value $12.44/share; Loss of $0.58
+
+Rocket Companies (RKT): 4.58 shares; bought at $22.85/share; current value $8.72/share; Loss of $64.74
+
+Pinterest (PINS): 4 shares; bought at $57.34/share; current value $26.35/share; Loss of $123.95
+
+Motley Fool 100 Index ETF (TMFC): 2.02 shares; bought at $29.48/share; current value $33.76/share; Gain of $8.65
+
+CrowdStrike Holdings (CRWD): 2 shares; bought at $130.23/share; current value $133.40/share; Gain of $6.34
+
+Morgan Stanley (MS): 2.13 shares; bought at $65.14/share; current value $84.18/share; Gain of $40.55
+
+Verizon (VZ): 2.22 shares; bought at $55.03/share; current value $36.80/share; Loss of $40.54
+
+Motley Fool Next Index ETF (TMFX): 10.02 shares; bought at $17.29/share; current value $14.38/share; Loss of $29.19
+
+Bank of America (BAC): 6.14 shares; bought at $46.06/share; current value $27.74/share; Loss of $112.51
+
+Paypal (PYPL): 1 share; bought at $118.55/share; current value $72.82/share; Loss of $45.73
+
+Warner Bros Discover (WRB): 1 share; bought at $0.00/share (distributed from AT&T at the sale of Discovery); current value $14.45/share; Gain of $14.45
+
+Total Loss: $519.79Comment by imissaolchatrooms: You are taxed on gains.  You have no gains.  In fact if you have some that are winners you can take $519 in profit and still be at zero tax due.
+Comment by yeastInfection81: No.
+Comment by None: You only get taxed on gains, not losses.
+Comment by consultacpa: This. If you're down, you pay no taxes and can count the loss up to $3k per year.
+Comment by AlexRyang: Okay, thanks! I know that I am losing money, but frankly, I expect several of these stocks to keep dropping and I don’t want to fall into the sunken cost fallacy at this point.
+Comment by AlexRyang: I know this is just Reddit so I am taking what you say as personal advice versus hard advice: given the stocks I listed do you think this may be a case where it is better to just cut my losses and sell these to buy ETF’s?
+Comment by imissaolchatrooms: Tough to say.  Do you have the time and understanding to research and hold individual stocks?   I don't have time to properly play the market these days, so I mostly hold broad sector ETFs,  although right now I have a higher percentage of cash than I normally hold.
+Title : Are BIPC and BAM publically traded partnerships (PTP)
+I am a non-North American investor investing in the American stock market. Due to the change of tax laws this month for PTPs for foreign investors I had to sell all my BIP and BEP stocks. 
+
+I am a big fan of Brookfield-led companies and dont want to give them up as I was in them for the previous few years and would like to be for many more. So I am curious if BIPC and BAM (the new stock - not BM) fall under the umbrella of PTPs or are they just normal stocks?Comment by OutlandishnessOk4315: BIP is but BIPC is not. All of the partnerships also have a ticker as a corporation. BEP and BEPC also. So you’re right BIPC and BAM are just normal stocks.
+Comment by changwonmatty: Thank you.
+Comment by Appropriate-Beach424: fretful hateful plucky smile coherent physical glorious doll normal towering ` this message was mass deleted/edited with redact.dev `
+Comment by OutlandishnessOk4315: No. That’s Brookfield Corporation. Corporations and partnerships are different.
+Title : The stocks with the biggest pre-market moves, PepsiCo, Intel, Philips, etc. Is that what you dreamed of last night?
+ 
+
+[PepsiCo](https://www.cnbc.com/quotes/PEP/) (PEP) – The snack and beverage maker reported an adjusted quarterly profit of $1.97 per share, 13 cents above estimates, with revenue also topping forecasts. PepsiCo was able to successfully raise prices on its products and raised its guidance for the year. The stock gained 2.4% in the premarket.
+
+[Intel](https://www.cnbc.com/quotes/INTC/) (INTC) – Intel added 1% in premarket trading following a Bloomberg report that the chip maker was planning to cut thousands of jobs to deal with a slumping personal computer market. Intel had 113,700 employees as of July.
+
+[Philips](https://www.cnbc.com/quotes/PHG/) (PHG) – Philips shares slumped 8.1% in the premarket after the Dutch health technology company said its third-quarter core profit would be down about 60% from a year ago. The company also said it would take a nearly $1.3 billion charge against the value of its troubled respiratory care business.
+
+[Cameco](https://www.cnbc.com/quotes/CCJ/) (CCJ) – The uranium producer and power plant operator [Brookfield Renewable Partners](https://www.cnbc.com/quotes/BEP/) (BEP) will buy nuclear power equipment maker Westinghouse Electric in a deal worth $7.9 billion, including debt. Cameco tumbled 11.5% in premarket action, while Brookfield was unchanged.
+
+[Diamondback Energy](https://www.cnbc.com/quotes/FANG/) (FANG) – Diamondback Energy announced a deal to buy energy producer FireBird Energy for $1.6 billion in cash and stock. Diamondback fell 1% in the premarket.
+
+[El Pollo Loco](https://www.cnbc.com/quotes/LOCO/) (LOCO) – El Pollo Loco shares rallied 15.2% in premarket action after the restaurant operator announced a $1.50 per share special dividend and a stock repurchase program worth up to $20 million.
+
+[CME Group](https://www.cnbc.com/quotes/CME/) (CME) – The exchange operator's stock was upgraded to buy from hold at Deutsche Bank, citing an attractive valuation after shares fell 33% from March's 52-week high. CME added 1.2% in premarket action.Comment by JRshoe1997: I hold PEP. Great stable stock with a strong dividend. However me personally I am not accumulating any shares of it right now. Way better opportunities out there imo.
+Comment by khizoa: > Is that what you dreamed of last night?
+
+Lol
+Comment by Desmater: Liking the PEP report. Little bit of buybacks and good revenue growth.
+Comment by financebycwtDOTcom: I'm a pepsi drinker. I saw they raised prices and I was like damn. Then I bought them anyways.
+Comment by Beginning_Ad841: Newbie question: If I buy LOCO stock today, will I make the cut for the special dividend?
+Comment by None: [deleted]
+Comment by tang4685: PHG is down 8.1% and if I were to like the stock down that much, I would join. What stocks do you guys like?
+Comment by None: [deleted]
+Comment by None: 24 pack of pepsi in one month went from $8 to $12... Ya so I imagine the executives with big bonuses and stock options are loving it!
+Comment by Ok_Discipline_824: Preferably Intel will hold maximally 50k people. They don't need more with how much AI is gaining in manufacturing. They need engineers, smart ones, not a lot of them out there.
+Comment by Boobaly1816: The last premarket moves for a while.
+Comment by chancretherapper: Dreamed of RCEL last night hitting the moon
+Comment by None: It se3ms when a company buys another and the cash is gone investor's get spooked. Like they wouldn't buy it for no reason idk
+Comment by yurajurik: Dafuq is my CCJ doing...
+Comment by Ursomonie: Staples should all rise with prices
+Comment by Ok_Discipline_824: Long intel
+Comment by leafEaterII: Like what? I hold MO for the dividends and I’ve been on the look for other better places to invest in since I’m down on MO over the last year.
+Comment by RunningJay: I have a very small holding in PEP, and every quarter I think to myself I should buy more.  Today, I am going to do it, unfortunately, it is a day too late, but I expect them to still do well over the next 12 months regardless of the recession.
+Comment by Junior_Edge7429: Same. Im just letting the dividend buy me more share through DRIP. I'd rather put cash into beat down etf's or tech to be honest.
+Comment by PeneratePoker: Name 3 
+
+
+Go……
+Comment by SofaKingStonked: It was a good report but I think it like many earnings could show the current problem. People say inflation isn’t entrenched but Pepsi rose prices and sales continued to boom. This is the dangerous part of inflation
+Comment by imnotabus: I'm buying a lot less. Short term gains for more drinkers quitting due to the price.
+
+Coke has been raising their prices even more
+Comment by Whoz_Yerdaddi: What did Steve Jobs say, “do you want to sell flavored sugar water for a living?” LOL
+Comment by GopherFawkes: No, dividend payout price is for the entirety of a quarter. So to get the whole thing you need to have held stock for the entire quarter otherwise you only get a portion of it which is determined by his long you held the stock in said quarter. 
+
+Any stocks you buy today would only count for the 4th quarter and beyond
+Comment by GammaGargoyle: Might as well just buy bonds if you’re looking for value.
+Comment by None: They should start with their overpaid trash ceo. 
+
+What an absolute moronic pay package he has. Intel is not only dogshit at chip making/design , they are dogshit at determining pay for their staff
+Comment by AccomplishedCopy6495: HIMAX
+Comment by 0utspokenTruth: Sometimes companies try to birth a baby earlier by hiring more mothers, especially when they have a lot of money that they don't know how to spend better. Sometimes cutting staff just makes the company much more efficient.
+
+No engineer likes to have 8 middle managers. 
+
+So to justify your statement you have to know what kind of employees they are letting go. Engineers from production pipeline? Ok might not be related to not enough demand. 
+
+Managers from research, design and engineering? Might have nothing to do with less demand and could be a very good thing.
+
+When companies lay off people they usually don't let go of the best people.
+You'll be surprised how many useless people there are in some of these companies with billions of $ valuations (I belong to one of them, I see clueless people everyday, a lot hired due to connections, cultural diversity, wokeness etc organizing events and spending a lot of money, doesn't contribute much to actual product).
+Comment by ian2121: In a market like this it is typical for layoffs to cause a short term rally.
+Comment by crazybutthole: wow never realized they went up that much. I quit drinking soda a few years ago. Maybe a single can of coke 2-3 times a week at work. But I wouldn't even do that except for boredom.
+Comment by JRshoe1997: Right now obviously I am still continuing to add to my ETF. As far as individual stocks I am looking at TXN and SBUX. 
+
+TXN is pretty high quality company that has been getting hit cause of NVDA, TSM, AMD, and INTC have been aggressively selling off and weighing it down.
+
+To me its also a sin that PEP and SBUX are trading around the same valuation. SBUX has a much higher growth rate and has been getting hit cause of recession fears. I am fine with building up this position once I am finished with TXN.
+Comment by JRshoe1997: 1. DGRO
+
+2. TXN
+
+3. SBUX
+
+In that order that I am looking to accumulate
+Comment by financebycwtDOTcom: He did say that lol.
+
+My answer would be, "depends how much I can make from it"
+Comment by Beginning_Ad841: Ok thanks.
+Comment by None: [deleted]
+Comment by None: 🐐
+Comment by Whoz_Yerdaddi: Can confirm. I’ve worked for a couple of Fortune 100 companies and it’s true that 10% of the people do the lion’s share of the work.
+Comment by None: Sh** ya not ... One month went up $4
+Comment by Junior_Edge7429: Speaking of growth, have you considered BROS? I pick up a few more shares every time it slumps. They seem to have a bit of a jump on SBUX as they are a pure drive-thru while SBUX is still attempting to push business away from in-store and to their drive-thrus.
+Comment by AccomplishedCopy6495: Running a billion dollar company and rich as fuck. Yeah. He’s the dumb one.
+Comment by crazybutthole: >and it’s true that 10 to 20% of the people do the lion’s share of the work.
+
+This is most companies. I work for US Govt and that's exactly how it is in my field. We have \~25 folks working there. 4 studs that accomplish the majority of the work for the group. 
+
+4 complete wastes of salary but no one does anything about them. Literally they could fire all 4 and one halfway decent worker would easily accomplish slightly more than all four of them combined.
+Comment by crazybutthole: Pretty Soon it will be cheaper to get coke, than to get coca-cola.
+Comment by SofaKingStonked: While long term SBUX and bros are good stocks I’d be careful. Coffee commodity prices have been rocketing which will hit margins and SBUX especially will have wage headwinds wether they unionize or pay employees more to try and prevent unionization. I think they are good companies I’d just personally wait 6-9 months
+Comment by 0utspokenTruth: With your logic every CEO that ruined companies in the past were the best
+Comment by None: 🤣 its already cheaper to buy cocaine and run everywhere than putting gas in your car and driving... 🤣
+Comment by AccomplishedCopy6495: That’s a stretch.
+Comment by None: [removed]
+Comment by AccomplishedCopy6495: You could try using words instead of insults.
+Comment by 0utspokenTruth: I did
+Title : (10/12) Wednesday's Pre-Market Stock Movers & News
+#Good morning traders and investors of the r/stocks sub! Welcome to Hump Day! Here are your pre-market stock movers & news on this Wednesday, October the 12th, 2022-
+
+*****
+
+# [Stock futures rise ahead of key inflation data, Fed minutes](https://www.cnbc.com/2022/10/11/stock-market-futures-open-to-close-news.html)
+
+*****
+> Stock futures rose Wednesday as investors awaited the latest inflation numbers and the minutes from the Federal Reserve’s latest meeting.
+*****
+> Futures tied to the Dow Jones Industrial Average added 151 points, or 0.53%. S&P 500 futures and Nasdaq 100 futures were up 0.69% and 0.89%, respectively.
+*****
+> The moves came after the S&P 500 and Nasdaq Composite fell 0.65% and 1.1%, respectively, to post their fifth straight day of declines. The Dow ended the day on a higher note, up about 36 points, but gave back most of its gains from a rally earlier in the session.
+*****
+> Stocks fell from their highs, and bond yields ticked up, when the Bank of England said its market intervention will be over soon and pension funds have just three days to rebalance positions.
+*****
+> Investors are looking forward to the September producer price index, a gauge of final-demand wholesale prices, due to be released by the Bureau of Labor Statistics on Wednesday. Economists surveyed by Dow Jones are expecting headline PPI to increase 0.2%, after declining 0.1% in the previous month.
+*****
+> The minutes from the Federal Reserve’s September meeting will also be released Wednesday. While Fed Chairman Jerome Powell has acknowledged that aggressive interest rate increases could be painful, the central bank will continue to charge forward in its fight to lower inflation.
+*****
+> “Powell has repeated, in what has become his mantra, that without price stability we cannot have a strong economy or a strong labor market,” said Quincy Krosby, chief global strategist for LPL Financial. “Investors are concerned that restrictive monetary policy, that is, tighter financial conditions, could lead to the kind of financial accident that dries up liquidity and delivers more harm to the global economy.”
+
+*****
+
+#STOCK FUTURES CURRENTLY:
+######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
+
+*****
+
+#YESTERDAY'S MARKET MAP:
+######(**[CLICK HERE FOR YESTERDAY'S MARKET MAP!](https://i.imgur.com/i8oYYDM.png)**)
+
+*****
+
+#TODAY'S MARKET MAP:
+######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx)**)
+
+*****
+
+#YESTERDAY'S S&P SECTORS:
+######(**[CLICK HERE FOR YESTERDAY'S S&P SECTORS CHART!](https://i.imgur.com/Mp6Mnf4.png)**)
+
+*****
+
+#TODAY'S S&P SECTORS:
+######(**[CLICK HERE FOR TODAY'S S&P SECTORS CHART!](https://finviz.com/groups.ashx)**)
+
+*****
+
+#TODAY'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/IOTNBot.png)**)
+
+*****
+
+#THIS WEEK'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/i7t9ani.png)**)
+
+*****
+
+#THIS WEEK'S UPCOMING IPO'S:
+######(**[CLICK HERE FOR THIS WEEK'S UPCOMING IPO'S!](https://i.imgur.com/nHYRIKi.png)**)
+
+*****
+
+#THIS WEEK'S EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](https://i.imgur.com/1CWBtE0.png)**)
+
+*****
+
+#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
+(*N/A.*)
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!]()**)
+*****
+
+#EARNINGS RELEASES BEFORE THE OPEN TODAY:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES LINK!](https://i.imgur.com/MRYsGZ5.png)**)
+
+*****
+
+#EARNINGS RELEASES AFTER THE CLOSE TODAY:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!](https://i.imgur.com/iQXdikD.png)**)
+
+*****
+
+#YESTERDAY'S ANALYST UPGRADES/DOWNGRADES:
+######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #1!](https://i.imgur.com/rhbOB6y.png)**)
+######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #2!](https://i.imgur.com/coXDDmx.png)**)
+######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #3!](https://i.imgur.com/QNLHOxK.png)**)
+######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES LINK #4!](https://i.imgur.com/QcZc6J8.png)**)
+
+*****
+
+#YESTERDAY'S INSIDER TRADING FILINGS:
+######(**[CLICK HERE FOR YESTERDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/CovnoK3.png)**)
+
+*****
+
+#TODAY'S DIVIDEND CALENDAR:
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #1!](https://i.imgur.com/OZFunAE.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #2!](https://i.imgur.com/XozFd20.png)**)
+
+*****
+
+#THIS MORNING'S STOCK NEWS MOVERS:
+
+######(**source: [cnbc.com](https://www.cnbc.com/2022/10/12/stocks-making-the-biggest-moves-premarket-pepsico-intel-philips-and-more.html)**)
+
+*****
+
+> **PepsiCo (PEP)** – The snack and beverage maker reported an adjusted quarterly profit of $1.97 per share, 13 cents above estimates, with revenue also topping forecasts. PepsiCo was able to successfully raise prices on its products and raised its guidance for the year. The stock gained 2.4% in the premarket.
+
+> #**STOCK SYMBOL:** PEP
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=PEP&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/PEP)**)
+
+*****
+
+> **Intel (INTC)** – Intel added 1% in premarket trading following a Bloomberg report that the chip maker was planning to cut thousands of jobs to deal with a slumping personal computer market. Intel had 113,700 employees as of July.
+
+> #**STOCK SYMBOL:** INTC
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=INTC&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/INTC)**)
+
+*****
+
+> **Philips (PHG)** – Philips shares slumped 8.1% in the premarket after the Dutch health technology company said its third-quarter core profit would be down about 60% from a year ago. The company also said it would take a nearly $1.3 billion charge against the value of its troubled respiratory care business.
+
+> #**STOCK SYMBOL:** PHG
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=PHG&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/PHG)**)
+
+*****
+
+> **Cameco (CCJ)** – The uranium producer and power plant operator Brookfield Renewable Partners (BEP) will buy nuclear power equipment maker Westinghouse Electric in a deal worth $7.9 billion, including debt. Cameco tumbled 11.5% in premarket action, while Brookfield was unchanged.
+
+> #**STOCK SYMBOL:** CCJ
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=CCJ&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CCJ)**)
+
+*****
+
+> **Diamondback Energy (FANG)** – Diamondback Energy announced a deal to buy energy producer FireBird Energy for $1.6 billion in cash and stock. Diamondback fell 1% in the premarket.
+
+> #**STOCK SYMBOL:** FANG
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=FANG&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/FANG)**)
+
+*****
+
+> **El Pollo Loco (LOCO)** – El Pollo Loco shares rallied 15.2% in premarket action after the restaurant operator announced a $1.50 per share special dividend and a stock repurchase program worth up to $20 million.
+
+> #**STOCK SYMBOL:** LOCO
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=LOCO&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/LOCO)**)
+
+*****
+
+> **CME Group (CME)** – The exchange operator’s stock was upgraded to buy from hold at Deutsche Bank, citing an attractive valuation after shares fell 33% from March’s 52-week high. CME added 1.2% in premarket action.
+
+> #**STOCK SYMBOL:** CME
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=CME&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CME)**)
+
+*****
+
+> **Lyft (LYFT)** – Lyft gained 4.3% in the premarket after Gordon Haskett upgraded the stock to buy from hold. The firm said the ride-hailing service’s stock is now attractively valued and an improving driver supply and other factors should help Lyft’s results. The stock tumbled yesterday after the Labor Department issued a new proposal that may classify drivers as employees rather than contractors.
+
+> #**STOCK SYMBOL:** LYFT
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=LYFT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/LYFT)**)
+
+*****
+
+> **Norwegian Cruise Line (NCLH)** – Norwegian jumped 3.5% in premarket trading after being upgraded to buy from neutral at UBS, which noted a significant improvement in bookings for the cruise line.
+
+> #**STOCK SYMBOL:** NCLH
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=NCLH&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/NCLH)**)
+
+*****
+
+> **KnowBe4 (KNBE)** – The cybersecurity firm is close to finalizing a deal to be bought by private equity firm Vista Equity Partners for about $4.5 billion, according to people familiar with the matter who spoke to the Wall Street Journal. KnowBe4 stock surged 12.3% in premarket action.
+
+> #**STOCK SYMBOL:** KNBE
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=KNBE&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/KNBE)**)
+
+*****
+
+#**FULL DISCLOSURE:**
+
+> /u/bigbear0083 has no positions in any stocks mentioned. Reddit, moderators, and the author do not advise making investment decisions based on discussion in these posts. Analysis is not subject to validation and users take action at their own risk.
+
+*****
+
+#**DISCUSS!**
+
+What's on everyone's radar for today's trading day ahead here at r/stocks?
+
+*****
+
+# **I hope you all have an excellent trading day ahead today on this Wednesday, October 12th, 2022! :)**Comment by ApprehensiveInvestor: I believe we should be keeping very close watch on Ford $F. It's oversold and all I hear is media pushing price drop. Tons of Puts out there and I think it's perfect squeeze play.
+Title : K-1 form for BEP tax filing
+Hey there, I’m new to stocks, don’t know much buy and sell here and there.  I bought BEP, sold 2 days later.  I was issued a K-1 form. I was inputting everything into TurboTax and it was asking about a K-3 form.. I don’t think I have one, it said it was attached on the K-1, but then on another sheet, a FAQ, it said that you were not required to file a K-3 form? And TurboTax keeps prompting me to put in information.   Can someone shed some light on this for me!Comment by ResponsibilityOk4236: I've received 5 K-1 forms so far and all said a K-3 was attached - but none had a K-3 form. There seems to be a problem this year and somewhere on Google it said that the K-3 forms should be out by Aug. 15th.  I've decided that K-1 forms are a royal pita (this is the first year I've gotten one).
+Title : Brookfield group: which stock do you prefer?
+Hi Gang...so far i have Bam...but there is growing interest in the newly formed (if i'm right) Brookfield business partners (bbu)...then there is bip/infrastructure and bep (environmental) ...but it seems some (or all?) of the the infrastructure assets falls under bam anyway... so for me it gets a bit confusing with the Brookfield group.
+
+...so of the Brookfield group which do you invest in and why?
+
+from the **Globe and Mail in today's '' Thursday’s analyst upgrades and downgrades.**"
+
+[https://www.theglobeandmail.com/investing/markets/inside-the-market/article-thursdays-analyst-upgrades-and-downgrades-189/](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-thursdays-analyst-upgrades-and-downgrades-189/)
+
+" After recent price depreciation, iA Capital Markets analyst Matthew Weekes sees upside in **Brookfield Business Partners L.P.**
+
+[BBU-UN-T](https://www.theglobeandmail.com/investing/markets/stocks/BBU-UN-T/) \+2.04%increase, [BBU-N](https://www.theglobeandmail.com/investing/markets/stocks/BBU-N)), calling it “a public way to own a private equity strategy.”
+
+“We believe that BBU is positioned to deliver robust NAV \[net asset value\] growth as it seeks to monetize assets that are at or near maturity, continues to enhance EBITDA in existing operations, and redeploys capital to further expand and diversify its operations and provide new growth platforms,” he said upon assuming coverage in a research note released Thursday. “Given BBU’s proven track record of realizing strong capital appreciation on investments, we believe that targets set out by the Partnership to continue growing NAV at a 15-per-cent CAGR \[compound annual growth rate\] over the next five years are highly achievable.”
+
+Mr. Weekes expects “robust” growth to continue, seeing Brookfield possessing a “competitive advantage in sourcing and executing attractive deals through its partnership with Brookfield Asset Management Inc.”
+
+“In addition to corporate liquidity for bridging future transactions, BBU’s existing portfolio companies generate strong distributable cash flow, and BBU has also noted potential up-financing opportunities,” he said. “While we expect BBU to continue to exercise patience, several of its businesses are likely at or near maturity, and with the series of acquisitions announced year-to-date, BBU appears to have reached a turnover point for its portfolio, which would indicate that a ramp up in monetizations is likely on the horizon.”
+
+“BBU is targeting a per unit value of $110 in five years, which equates to a CAGR of 15 per cent. Given BBU’s track record of delivering average IRRs of 30 per cent on monetizations, we believe this is highly achievable.”
+
+He set a target of US$57, up US$1 from the firm’s previous target. The average is US$53.50.
+
+“BBU estimated its NAV at $54-58 per unit at its most recent Investor Day in September, with potential embedded value of $75+ per unit,” said Mr. Weekes. “This implies a current discount of 15 per cent for BBU’s units. We believe that the units tend to trade at a discount to BBU’s NAV estimate in part because BBU does not include corporate costs and management/performance fees in its NAV. However, we continue to see upside in the units based both on valuation upside for certain key assets and continued growth through the execution of the Partnership’s strategy.”Comment by turkeychicken: I have BEP and BIP.  BEP has done well for me but I'm considering offloading BIP and dumping it into something else.  I haven't looked into BBU yet
+Comment by BelliBlast35: BIP for the win….they’re due for another split
+Comment by Successful-Bad-2117: I’ve got decent chunks of BAM and BEP, both good long term holds in my opinion
+Comment by peter-doubt: No doubt then, that you notice the group trades among themselves for seasonal window dressing. 
+
+They charge a management fee for trading, but the only trading is like three card Monty.
+Comment by lemenick: Never heard of Brookfield. The text doesnt even describe what they do. What is this company?
+Comment by SpliTTMark: I sold my bam as I don't like the way this company has 6 tickers and can't make up their mind on not just having one
+
+Bip bipc bep bepc bpy bam 
+
+So I will go with so or nee or dominion
+Comment by SCII0: Really depends on what type of exposure you are looking for.
+
+Just as an aside: BIP is a Limited Partnership and might have some tax implications, depending on where you live.
+Comment by Domethegoon: BAM
+Comment by YourFriendlyUncle: Lengthy explanation incoming as they can be confusing, but are exceptional and the crown jewel of Canadian public companies IMO (most of my portfolio is in BAM).
+
+
+Brookfield is an “alternative asset” management and holding company. Essentially, they invest in (small stake up to 100% ownership) very illiquid “real assets”. Their biggest sector is Real estate (they’re one of the biggest real estate investors in the world) like Canary Wharf in London, Manhattan West in NYC, Atlantis Hotel in Bahamas etc. Several hundred billion $ in diversified and top quality real estate in numerous sectors. They also invest in infrastructure such as diversified utilities (pipelines, water purification), railroads, toll roads, shipping ports, data centres, telecom tower networks, and have a huge selection of diversified renewable power generation infrastructure as well. This is where the confusion comes from with all their tickers. A lot of their divisions are separate legal entities/corporations where BAM is the majority shareholder. Infrastructure and Renewables are the two big ones, and are the BIPC & BEPC you can own directly. These give you expose to only those divisions. Imagine if YouTube, Chrome, Maps etc. were all separate Alphabet entities and you wanted to pick and choose or just hold Alphabet in it’s entirety. They also have started expanding heavily into private equity, reinsurance, and distressed credit via their majority stake in Oaktree Asset Management (I think this is where BBU sits). 
+
+
+I could go into more detail about their approach to investing in assets, but their CEO Bruce Flatt is a visionary and pretty arguably the best CEO in Canada. BAM has outperformed the TSX every year since he became CEO in 2002. It took them 10 years to double to 250B in AUM and only 5 years to reach 500B in late 2019/2020. They’re pretty confident they will have a trillion AUM by 2025 which is more than probable since they currently have 650B.
+
+
+All of these divisions (BIPC, BEPC, Oaktree, etc.) operate in general independence, have their own executives etc., but BAM has a controlling say in all of them. One of the downsides to owning any of the individual pieces vs the BAM “mothership” is that BAM looks out for BAM above any singular sector. This past year they determined that their REIT portion, BPY, was trading pretty far under their target NAV and bought out the existing shares to bring it 100% private under BAM. Those who were holders of BPY were generally unhappy because they didn’t get a great deal on their shares, but BAM will cannibalize it’s young to squeeze maximum value out for their BAM shareholders. There is also some sketchy Corp structure (think GOOG & GOOGL), and you can read up on their relationship with Kushner and leasing 666 Fifth Avenue so there is a bit of greasy-ness with them, but that’s Capitalism sometimes and they are one of the best at what they do.
+Comment by Yoghurt-Facial: BAM is a beast in my portfolio that’s what it is
+Comment by CarRamRob: BAM is the parent company. They have controlling interests in all the others, but you can invest in them individually if you like. 
+
+Nothing confusing about it.
+Comment by chopstix62: Thanks... question. I was watching Bloomfield market report and one analyst who was on feels that Colliers international is a better bet (in this segment) because they're also younger company... and when I did a side-by-side in Google finance it looks like they were doing the better return over the last 5 years... what's your opinion?
+Comment by YourFriendlyUncle: I'm not familiar with Colliers so I did a little research and they seem really specialized/thorough and cover every aspect of the real estate market. 
+
+They might have more room to grow in terms of being a smaller fish than BAMs RE division, but I'd still put my money behind BAM just in general because their bread and butter is real estate and only a small portion of their portfolio plus I only hold RE through them, 
+no REITs
+Comment by chopstix62: or maybe i'll hold both!....Colliers is also quite respected up here in Canada.
+
+[https://www.google.com/finance/quote/CIGI:TSE?comparison=TSE%3ABAM.A&window=YTD](https://www.google.com/finance/quote/CIGI:TSE?comparison=TSE%3ABAM.A&window=YTD)
+Title : Should I take my L’s and reinvest?
+I have a long term and a short term portfolio, 
+
+I have some L’s in my long term portfolio that I bought during the correction back in January and have pretty much traded flat since then. Honestly, some of them were just bad picks, but I had only been trading a few months when I bought them. 
+
+I got NOVA @ $52
+ARKK @ $136
+ICLN @ $28
+BEP @ $47
+CQQQ @ $90
+
+What’s the play here? I believe in clean energy and I made a lot on NEE but I’m wondering if I should take my losses and reinvest into something I’ve done better with?Comment by AutoModerator: Welcome to r/stocks!
+
+For stock recommendations please see our portfolio sticky, sort by hot, it's the first sticky, or see [past portfolio stickies here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22Rate+My+Portfolio%22+-+r%2FStocks+Quarterly+Thread&restrict_sr=on&include_over_18=on&sort=new&t=all)
+
+For beginner advice, brokerage info, book recommendations, even advanced topics and more, please read our [Wiki here.](https://www.reddit.com/r/stocks/wiki/index)
+
+If you're wondering **why a stock moved** a certain way, check out [Finviz](https://finviz.com/quote.ashx?t=spy) which aggregates the most news for almost every stock, but also see [Reuters](https://www.reuters.com/), and even [Yahoo Finance](https://finance.yahoo.com/).
+
+Also include *some* [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) to this post or it may be removed if it's low effort.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*
+Comment by EducatedFool1: Holding for less than a year isn’t long term man. Surely you had a reason to add something for the long-term
+Comment by octagonal_rutabaga: Don't bag hold. If you wouldn't invest in them now, why keep money in them? Cut losses and invest in good companies
+Comment by PirateDocBrown: Sell CCs while you wait. Sell to get tax write offs at end of year.
+Comment by PersonalityProper596: Im bagholding AAL (37$/share basis) SLB (70$) and CLNE (12$ basis). Been holding the first 2 for years, but i cant bring myself to realize the losses. At least ive picked winners since then
+Comment by PJD31111: I do it all the time. Cash out losers with no hope and put into movers. Do your TA and DD. Catch irrational dips , be patient and  you will get your wins with high percentages 👍
+Comment by Fun_Fan_9641: Keep ARKK. Believe in Cathy. All the others i’d cut your losses
+Comment by None: Yup, hold for two more years then decide
+Comment by None: [deleted]
+Comment by EducatedFool1: Well hold for the long term then…
+
+But if you want my opinion on the tickers, I wouldn’t buy any of them personally.
+Comment by nici_dee: Do you know why you bought each name?
+
+Does each thesis still hold?
+
+Close those that don't and reinvest.
+Comment by sizedup: This is good advice, thanks. Will do for sure
+Title : Cherry picking growth opportunities in the Green Energy Space!!
+Hi all! Looking for advice on the best stock opportunities for green energy across the supply chain. Criteria is basically good fundamentals and strong growth outlook.
+
+
+Some names that I have gathered so far are
+
+Sunpower
+
+Enphase
+
+MP Materials
+
+Bloom Energy
+
+BEP
+
+NextEra EnergyComment by Maficinc: RUN
+Comment by stickman07738: SEDG
+Comment by rltraylor: Maybe not exactly what your looking for but, 
+
+"Algonquin Power & Utilities Corp is a Canada-based diversified generation, transmission and distribution utility company. Through its business groups, the Company provides rate regulated natural gas, water, and electricity generation, transmission, and distribution utility services to over 750,000 customers in the United States. Furthermore, the Company is engaged in the generation of clean energy through its portfolio of long term contracted wind, solar and hydroelectric generating facilities representing more than 1,600 megawatts (MW) of installed capacity. The Company’s operating subsidiaries are Liberty Power and Liberty Utilities. Liberty Power owns a direct or indirect equity interest in more than 35 clean energy facilities. Liberty Utilities provides water, electricity, and gas utility services to communities across the United States."
+Comment by wellidliketotellyou: ENPH
+Comment by imliterallydyinghere: Not so sure i'd focus so much on american companies when it comes to green energy. At the moment i'd look into Vow Asa, Scatec, Magnora Asa, Avantium, Neoen
+Comment by ryancubs: Look into next era partners. They’re the parent of NEE and pay a higher dividend. I like the ones you found as well.
+Comment by CipherScarlatti: Avoid all the fuel cell stocks. Heavily manipulated. Useless tech. Their method is: take natty gas, run through the silicon plates, makes water and electricity. You're still using a fossil fuel idiots, just with more steps.  
+Naturally, the fossil fuel companies love to champion this because it benefits them.  
+Great example of greenwashing.
+Comment by play_it_safe: Some less mentioned tickers that relate to green energy:
+
+ARRY BLBD DAR
+Comment by Necessary_RoughOne: FUV
+Comment by imliterallydyinghere: Surprised they only have 1600mw installed capacity. I thought they were a bigger player in renewables already. but a stock i have on my watchlist as well
+Comment by play_it_safe: It's a great company. I have no idea why AY or CWEN were pumped to the moon in renewables/small cap palooza season. AQN is best value of them all and well off its highs right now. It's the only utilities stock I own. I think there's good upside in the share price, too, in addition to significant dividends
+Comment by rltraylor: I also have AY and YORW,  A little disappointed about the "natural gas" aspect, focusing on "green" but...I have BEPC on my watch list, but haven't pulled the trigger yet.
+Title : Suggestion to narrow down my portfolio
+
+Symbol 	Qty		Cost/Share      Last	     AdjGain(%)
+
+ABNB	     87		  164.691		      166.59	   1.15
+
+BABA	     41		  196.5007      160.05 	 -18.55
+
+BEP		      55		  38.0338		      38.97	     2.46
+
+CMCSA 	120   40.95        	    57.11	     39.45
+
+DBX	       135		 19.1779		      30.7	        60.08
+
+DIVO	      42		   36.3783		     35.72     	-1.81
+
+FB		         48		   214.8554	     364.72	  69.75
+
+INTC	      182   52.8881		     54.26	     2.59
+
+JPM       	44     	111.5086	     157.68	  41.41
+
+NFLX     	7		      490   	             589.35   20.17
+
+NVDA	     32    	98.1401		      219		       123.15
+
+PLTR	      312		  23.4544		      28.71	     22.41
+
+QCOM	   62      122.4566	     133.6     	9.1
+
+RDFN	    143		  42.4611		      51.19	     20.56
+
+SQ		         33	    	222.2503	      255.79	    15.09
+
+T		            223   31.3882		      27.53	    -12.29
+
+TSLA      	38		   494.0213      	759.49	    53.74
+
+V		           47     	187.2196	      221.75    	18.44
+
+VHT.        4		     258.065		      258.79    	0.28
+
+VNQ       	10		   106.6	           	106.4	       -0.19
+
+VYM       	81      96.0714	      	104.86	     9.15
+
+VZ		        65       56.0704	       	54.28       	-3.19
+
+
+Above is my portfolio. Want to reduce my portfolio to about 15 stocks. Any suggestions on stocks that I can sell and add to other stock in the portfolio?
+
+Thanks.Comment by KingSamy1: Start by presenting your data (above) in a table so can be read easily
+Comment by None: I'd personally dump Intel and Redfin for AMD & Zillow (or just dump them).
+
+Just my opinion obv
+Comment by None: Take into consideration stocks price target, market cap and moving average.
+There is not a rule to disinvest, sometimes it's better to cut losses than take profits
+Comment by SpliTTMark: I dont like baba at all.. But you could buy 41 shares now at 160 and then sell the higher shares later to put elsewhere.. 
+
+Vht: you could pick two like abbvie/pfe or jnj 
+or keep vht and buy one you believe in to go with it
+Comment by Akanan: I made a Qualcomm vs Qorvo few weeks ago and Qualcomm ended up not appealing at all. In this Category at least, Qorvo is better imo. But i ended up not buying anything. I thought i was on something at first... but nothing was interesting enough. So i'd dump that....  
+    
+I woud sell TSLA and PLTR. Don't care about their moat or how great their business is, they are great! No doubt here. Their current valuation is insanely and grossely too high.
+Comment by ThePeoplesMVP: Dump ABNB. No brainer the stock is a dud
+Comment by asdfadffs: 1) Install Excel 
+
+2) Write the same thing in there 
+
+3) Take screenshot 
+
+4) And sell everything except FB, SQ, NVDA, JPM
+Comment by d00ns: Sell everything that doesn't pay a dividend
+Comment by None: Yes... Hold some cash for future opportunities or market corrections
+Comment by AlE833: Maybe take some gains, then only hold onto the losses of companies you that think will rebound in the future.
+Comment by MiamiFan-305: Granted a raging bull market but u did pretty well with ure pics.
+
+Imo if you want to trim to 15 I'd just be patient and sell when the reasons you originally bought them no longer hold true.
+
+Also if some are short term vs long term holdings.
+Comment by spoiledfruit: I mean it depends what type of strat you are running and if you are using a portfolio sizing mechanism to mitigate risk.  Looking through the list I'd get rid of BABA for sure.  But to give you a better answer I'd want to understand what your goal is.
+Comment by None: Looks good
+Comment by SpliTTMark: You don't need vz t and cmcsa keep one get a telecom etf and that will have facebook and disney as well
+Comment by None: I would take out RDFN. Don't see why it would grow . Institutional investment has been disappointing.
+Comment by DukeNukus: Look into value averaging, drop the stuff that is underperforming your estimates (would require buying lots of additional shares.
+
+Main thing with portfolio management is to consider what is going to provide the best expected results. If you want to remove stuff, remove the stuff you think is less likely to be as good in the next few years or so. There is an oppurtunity cost to holding a position and keep in mind, cash itself is a position.
+Comment by itsBhaR: Corrected it a bit.
+Comment by Possible_Border_4111: Spoken like a true teacher. Do you even teach bro?
+Comment by itsBhaR: Want to keep Intel for dividends. Redfin is currently at 52 week low. So, planning to sell it if it bounce back to previous high.
+Comment by itsBhaR: Yes, BABA and RDFN are the one next on my sell list. Waiting for a good time to exit on those. 
+
+I thought to go with Abbie and vht but after trying to understand the products/business model of Abbie or any biopharmaceutical company I understood that health industry is something that I cannot understand much. So, I thought for health it's better to stick with index fund. So, have only VHT.
+Comment by itsBhaR: Yeah, I think I'll add qcom to my next sell list. I initially added that as a dividend but I guess I'll sell it and add to other dividend ETF. 
+
+Agree TSLA and PLTR are highly valued. I want to hold my portfolio for next 5 to 10 years. So, I'm ready to more if they end up plunging or in correction. Researching an industry and company takes ton of time, so, I don't like selling unless I find next big company. My goal is to get 20% ROI per year. So, I'm confident these two will give me 100% up in next 5 years.
+Comment by itsBhaR: I'm for long term. ABNB good for long term. It seem to be recession proof like covid. I'm confident that it could give me good ROI by 2025.
+Comment by itsBhaR: This reddit group doesn't allow to attach images.
+Comment by itsBhaR: Used to have 30+ stocks. Sold some of them and took some gains. It's hard to keep up with multiple company updates. So, thinking to sell some more and add them to index funds.
+Comment by itsBhaR: Yeah, 80% of my current portfolio is from last 1 year. I sold some of my stocks during the start of pandemic. Then entered when it recovered. Made a huge mistake by selling TSLA during pandemic else my portfolio would've doubled by now. But learnt a good lesson that good companies should not be sold due to external factors unless you are in need of money.
+Comment by SpliTTMark: There 8 or so we dont see here
+Comment by itsBhaR: Yeah I wanna get rid of this and will never buy Chinese stocks. But, waiting to break even on it and then will sell.
+Comment by Akanan: TSLA and PLTR are already priced in for anything thats going to happen in the next 10years, IF they do happen flawlessly. You are already holding the next 10years.
+Comment by AlE833: Yeah that’s a good idea. If you want to do that I would just keep a few stocks I have the highest conviction with and the rest sold into index funds
+Comment by spoiledfruit: I don't know at what point you bought in, but the AI tool I use for analysis predicted a return to normal on August 28th, it isn't able to take into account news like delistings, but I bought on it's advice, and then sold a little later on threat of delisting.  The big issue here is Chinese crackdown on tech, My team and I have been doing some research on it: https://truesight.me/covered_entities/1416570-tech-crackdown/2021-09-14/90
+
+https://www.youtube.com/watch?v=BC_IfL2bBeg
+
+China is basically going through the same phase as US is right now with big tech like Fb, Amzn and the likes. The exception being the CCP is very action oriented and doesn’t spend much time on endless hours of debates and testifications. They just set the law from top down and move on to the next topic

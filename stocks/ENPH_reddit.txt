@@ -1,0 +1,1428 @@
+Title : Enphase Energy Non-GAAP EPS of $0.65 misses by $0.13, revenue of $380.87M misses by $13.03M, Shares -9% AH
+* Enphase Energy  (NASDAQ: ENPH) Q3 Non-GAAP EPS of $0.65 **misses by $0.13.**
+* Revenue of $380.87M (-30.9% Y/Y) **misses by $13.03M.**
+
+**FOURTH QUARTER 2024 FINANCIAL OUTLOOK**
+
+For the fourth quarter of 2024, Enphase Energy estimates both GAAP and non-GAAP financial results as follows:
+
+* Revenue to be within a range of $360.0 million to $400.0 million vs $435.21M consensus, which includes shipments of 140 to 160 megawatt hours of IQ Batteries.
+* GAAP gross margin to be within a range of 47.0% to 50.0% with net IRA benefit.
+* Non-GAAP gross margin to be within a range of 49.0% to 52.0% with net IRA benefit and 39.0% to 42.0% excluding net IRA benefit. Non-GAAP gross margin excludes stock-based compensation expense and acquisition-related amortization.
+* Net IRA benefit to be within a range of $38.0 million to $41.0 million based on estimated shipments of 1,300,000 units of U.S. manufactured microinverters.
+* GAAP operating expenses to be within a range of $135.0 million to $139.0 million.
+* Non-GAAP operating expenses to be within a range of $81.0 million to $85.0 million, excluding $54.0 million estimated for stock-based compensation expense, acquisition-related expenses, and amortization.Comment by BukkakeNation: I was promised that ENPH would go to the moon when they lowered interest rates
+Comment by dweeegs: Last quarter, during the conf call, they said that they were at ‘85% booking already’ to the midpoint of this quarter’s guidance
+
+They then came in at the very bottom of guidance
+
+They dropped the same line in today’s call and I turned it off
+
+Plus is that US genuinely seems to be recovering. Bad news is that Europe is a giant shitshow
+Comment by TheRealHBR: A lot of the issues are macro. This is going to be a great buy at these prices, but the problem is no one is going to like that idea.....until its in hindsight. Give it another year or so and reassess.
+
+Nothing is wrong with the fundamental business. They have maintained their margins and sold less versus selling more while sacrifcing margin, further lowering revenue. They have been steadily buying back shares with their free cash, while also maintaining/growing their cash pile....ALL WHILE developing newer products and adding them to more and more countries.
+
+Solar isnt going anywhere, and while rates have been hammering them, I see light at the end of the tunnel. Be it in a quarter or two or more? Who knows....I just buy.
+Comment by CanYouPleaseChill: The actuals didn’t miss estimates, the estimates missed actuals. Estimates for earnings growth are generally too high. Did Starbucks really miss estimates or did investors underestimate the weakness in the Chinese economy and consumer spending power?
+Comment by PlayfulPresentation7: All ppl had to do was just buy Nvidia and instead they lost money on this horse shit.
+Comment by plutosbigbro: Damn that sucks, SEDG has been so awful for me. I think it can’t get worse and then it does.
+Comment by FarrisAT: Bag holder on 1 share at $100
+Comment by PalpitationFrosty242: I completely forgot about this stock, everyone use to talk about it
+Comment by CrimsonBrit: I’m already down 40% since I purchased in July 2023 and the company continues to decline. I just don’t see how this company recovers in the short to medium term. It’s not even a percentage of my portfolio so I think I’ll take the loss on this one and stop following the stock.
+Comment by TimeTravelingChris: What's funny is that Tesla would kill for those earnings here in a few hours. EW EPS estimate is $.0.65 or less.
+Comment by dvdmovie1: At this point can rename it Eclipse. 
+
+Looks like it will retest lows, or at least get close. I think if we're not going back to anywhere near ultra low interest rates one has to wonder where some sort of material tailwind comes from for resi solar.
+Comment by Hashimoto_Honoka: Who thought it was a good idea to name the company enphasebook? I hope facebook sues them to bankruptcy.
+Comment by averysmallbeing: California changing their net metering rules has not helped. 
+Comment by IntelligentPlate5051: Interest rates have not really gone down.
+Comment by largespacemarine: Residential solar is absolute garbage from almost any perspective. Utility scale is where it is at, thought competition is insane so it's hard to find a winner.
+
+Edit: the guy below me is completely wrong, microinverters are used for rooftops and residential only. Utility scale solar arrays use central or string inverters made by Chint, SMA, Shoals, Sungrow etc. I've worked in the industry for nearly a decade doing all aspects of utility scale work and I've never come across a system or even heard of anyone in the industry who has that has used enphase microinverters on a utility scale power plant.
+
+I hope you don't invest your own money if you can't even be bothered to research this before commenting.
+Comment by I-STATE-FACTS: Who promised you this?
+Comment by cscrignaro: Yup, I'm done with solar. Removed it from my watch lists, absolute trash.
+Comment by captainstrange94: Always inverse reddit
+Comment by CwRrrr: Valuation is still expensive at this level after the earnings dump
+Comment by largespacemarine: The fundamental business itself is what's wrong: residential solar doesn't make sense as utility scale continues to get cheaper.
+Comment by the_dalailama134: That's an issue with the S&P overall. I keep seeing talk about PE being in the low 20s like 22....that's forward PE with trailing almost 30 currently. They're expecting 39% YoY gains in the S&P as a whole.
+Comment by Historical_Ladder_77: That is correct, or $MSTR. Never again.
+Comment by dweeegs: ENPH had double digit growth in the US and huge downswing in EU. SEDG is more tilted to EU. Not great for them
+Comment by averysmallbeing: Different company.....? 
+Comment by scarface910: Hope you can recover
+Comment by vsMyself: This company is very volatile. Swings both ways real fast
+Comment by Similar-Turnip2482: Would you mind expanding on that for us less knowledgeable folks ?
+Comment by averysmallbeing: Enphase makes micro inverters which are needed for all solar generation, not just residential installations. 
+Comment by ilikesheepbaabaa: Utilities, Fslr, or bust in the solar industry. Sunpower said it all for residential.
+Comment by draw2discard2: The biggest barrier to residential solar is a lack of competition among installers. The price of panels has fallen so much that the equipment is incredibly reasonable but good luck (at least in much of the country) finding an installer who won't gouge you for what is not a difficult or complex job.
+Comment by Visible-Blacksmith97: And guess what? When the data and info changes next quarter or hell, next year, and the valuation is too LOW.....the price will adjust. Sometimes you need to bite the bullet and get in, DCA, and wait.
+Comment by JRshoe1997: To be fair the valuation isn’t that insane considering the lower market cap. It’s much easier to grow earnings when you’re a small company. It’s not like Nvidia which is at a 3.4 trillion market cap while trading at a 65 P/E. That is way more insane than Enphase trading at a 85 P/E when its only a 10 billion dollar company.
+Comment by CanYouPleaseChill: There's no way forward earning estimates come in as forecast. They'll be far lower.
+Comment by Historical_Ladder_77: Whoever downvoted this is stupid
+Comment by RealWICheese: SEDG is half US and 1/3 EU which is only a bit more than ENPH so not as leveraged as you think.
+Comment by plutosbigbro: Same sector…..? Snap has repeatedly tanked other companies when the blow their earnings. Same sector impacts others
+Comment by Unlockabear: Basically made it so solar isn’t worth getting in Cali, the biggest solar state. It was basically done to appease utilities who were losing money from more houses going solar.
+Comment by largespacemarine: Incorrect, no one uses micro inverters for utility scale they use them for residential. String inverters are not micro inverters. 
+
+Just look at their earnings dude they get nothing for utility scale despite that being where all the money is going. They introduced a "commercial scale" microinverter that can handle 500-600w, that's one single module on a utility scale farm which typically have tens to hundreds of thousands of modules each.
+Comment by St3w1e0: Most of the market for inverters is residential though. Utility scale uses higher capacity inverters so fewer units overall.
+Comment by largespacemarine: There is just no economy of scale for residential meanwhile utility scale gets cheaper and cheaper because these things are Legos that get slapped together quickly. It's actually incredible.
+Comment by CwRrrr: lol yeah no I’m not gonna DCA into a solar stock lmao.
+Comment by FirstSolar123: \+ Having a P/FCF of less than 20.
+Comment by dweeegs: It’s only 1/3 EU because of how bad EU has been
+
+>ENPH reported a 34% sequential decline in European sell-thru during 3Q and commented that market conditions in the continent remain generally challenged,” he wrote.
+
+>Although Enphase Energy is not a direct competitor, SolarEdge Technologies has significant exposure to Europe, which contributes around 60% to 65% of its sales, the analyst stated. He lowered the estimate for the third quarter to a loss of 38 cents per share, versus the previous estimate of 12 cents per share.
+Comment by Similar-Turnip2482: Wow. Thats sick. Big business always gets its way huh
+Comment by largespacemarine: At least not a residential solar stock.
+Comment by Character_Cut_6900: Residential solar fucks up the grid if there's no batteries involved in the house.
+Comment by Similar-Turnip2482: Like the surplus causes problems?
+Comment by Similar-Turnip2482: Like the surplus causes problems?
+Comment by largespacemarine: Yes, there is no way to easily curtail residential systems en masse.
+Title : I compiled a list of all 190 stocks and funds from the September 2024 Quarterly Thread
+Hey, I did this for myself, but figured it would also be nice for others to check out - I hope it's useful!
+
+
+
+**List of 190 stocks and funds:**
+
+* **AMZN** (Amazon.com Inc.)
+* [**AP-UN.TO**](http://AP-UN.TO) (Allied Properties Real Estate Investment Trust)
+* [**ATD.TO**](http://ATD.TO) (Alimentation Couche-Tard Inc.)
+* [**BAM.TO**](http://BAM.TO) (Brookfield Asset Management Inc.)
+* [**EQB.TO**](http://EQB.TO) (Equitable Group Inc.)
+* **GOOG** (Alphabet Inc.)
+* **MSFT** (Microsoft Corporation)
+* **V** (Visa Inc.)
+* **Semiconductor ETF** (e.g., **SMH** - VanEck Semiconductor ETF)
+* **RTX** (RTX Corporation)
+* **XLK** (Technology Select Sector SPDR Fund)
+* **COST** (Costco Wholesale Corporation)
+* **O** (Realty Income Corporation)
+* **QQQM** (Invesco NASDAQ 100 ETF)
+* **AIA** (iShares Asia 50 ETF)
+* **XLE** (Energy Select Sector SPDR Fund)
+* **INTC** (Intel Corporation)
+* **DLR** (Digital Realty Trust Inc.)
+* **TGT** (Target Corporation)
+* **RIVN** (Rivian Automotive Inc.)
+* **TCEHY** (Tencent Holdings Ltd.)
+* **KR** (The Kroger Co.)
+* **PGJ** (Invesco Golden Dragon China ETF)
+* **IBIT** (iShares Bitcoin Trust ETF)
+* **KPOP** (KPOP and Korean Entertainment ETF)
+* **BBWI** (Bath & Body Works Inc.)
+* **AAPL** (Apple Inc.)
+* **NET** (Cloudflare Inc.)
+* **NVO** (Novo Nordisk A/S)
+* **VKTX** (Viking Therapeutics Inc.)
+* **PLTR** (Palantir Technologies Inc.)
+* **SOFI** (SoFi Technologies Inc.)
+* **BRK.B** (Berkshire Hathaway Inc. Class B)
+* **C** (Citigroup Inc.)
+* **USB** (U.S. Bancorp)
+* **TFC** (Truist Financial Corporation)
+* **SCHG** (Schwab U.S. Large-Cap Growth ETF)
+* **SCHD** (Schwab U.S. Dividend Equity ETF)
+* **PSCI** (Invesco S&P SmallCap Industrials ETF)
+* **SCHE** (Schwab Emerging Markets Equity ETF)
+* **IWM** (iShares Russell 2000 ETF)
+* **SCHF** (Schwab International Equity ETF)
+* **UTG** (Reaves Utility Income Fund)
+* **VOO** (Vanguard S&P 500 ETF)
+* **VXUS** (Vanguard Total International Stock ETF)
+* **VZ** (Verizon Communications Inc.)
+* **PG** (The Procter & Gamble Company)
+* **KO** (The Coca-Cola Company)
+* **JNJ** (Johnson & Johnson)
+* **VUAA.L** (Vanguard S&P 500 UCITS ETF)
+* **WM** (Waste Management Inc.)
+* **USPY.L** (First Trust NASDAQ Cybersecurity UCITS ETF)
+* **SanLorenzo** (Sanlorenzo S.p.A.)
+* **ORLY** (O'Reilly Automotive Inc.)
+* **EVO** (Evolution AB)
+* [**CSU.TO**](http://CSU.TO) (Constellation Software Inc.)
+* **KNSL** (Kinsale Capital Group Inc.)
+* [**RMS.PA**](http://RMS.PA) (Hermès International SCA)
+* **NORBIT** (Norbit ASA)
+* [**PDX.ST**](http://PDX.ST) (Paradox Interactive AB)
+* **TOI.V** (Topicus.com Inc.)
+* **AQ** (AQ Group AB)
+* **NCAB** (NCAB Group AB)
+* **AMD** (Advanced Micro Devices Inc.)
+* **CRWD** (CrowdStrike Holdings Inc.)
+* **ORCL** (Oracle Corporation)
+* **ABNB** (Airbnb Inc.)
+* **XOM** (Exxon Mobil Corporation)
+* **SNOW** (Snowflake Inc.)
+* **TT** (Trane Technologies plc)
+* **INTC** (Intel Corporation)
+* **BMW** (Bayerische Motoren Werke AG)
+* **NVDA** (NVIDIA Corporation)
+* **LRCX** (Lam Research Corporation)
+* **MSTR** (MicroStrategy Incorporated)
+* **TSLA** (Tesla Inc.)
+* **KNPAX** (Kopernik Global All-Cap Fund)
+* **KNPCX**
+* **WMFFX** (William Blair Mid Cap Growth Fund)
+* **JMUEX** (JPMorgan U.S. Equity Fund)
+* **TROSX** (T. Rowe Price Overseas Stock Fund)
+* **TRBCX** (T. Rowe Price Blue Chip Growth Fund)
+* **LQDA** (Liquidia Corporation)
+* **PM** (Philip Morris International Inc.)
+* **MDT** (Medtronic plc)
+* **SYK** (Stryker Corporation)
+* **NMIH** (NMI Holdings Inc.)
+* **CCEC**
+* **FRMO** (FRMO Corporation)
+* **EBAY** (eBay Inc.)
+* **VNOM** (Viper Energy Partners LP)
+* **CARR** (Carrier Global Corporation)
+* **GGN** (GAMCO Global Gold, Natural Resources & Income Trust)
+* **IFN** (The India Fund Inc.)
+* **RCG** (Renn Fund Inc.)
+* **SPLG** (SPDR Portfolio S&P 500 ETF)
+* **QQEW** (First Trust NASDAQ-100 Equal Weighted Index Fund)
+* **ETH** (Ethereum)
+* **BTC** (Bitcoin)
+* **VWO** (Vanguard FTSE Emerging Markets ETF)
+* **VEA** (Vanguard FTSE Developed Markets ETF)
+* **BND** (Vanguard Total Bond Market ETF)
+* **VTI** (Vanguard Total Stock Market ETF)
+* **BBY** (Best Buy Co. Inc.)
+* **DB** (Deutsche Bank AG)
+* **LXU** (LSB Industries Inc.)
+* **PINS** (Pinterest Inc.)
+* **SPOT** (Spotify Technology S.A.)
+* **WMT** (Walmart Inc.)
+* **NCA** (Nuveen California Municipal Value Fund)
+* **PZC** (PIMCO California Municipal Income Fund III)
+* **LMT** (Lockheed Martin Corporation)
+* **IGC** (India Globalization Capital Inc.)
+* **TSM** (Taiwan Semiconductor Manufacturing Company Ltd.)
+* **TMO** (Thermo Fisher Scientific Inc.)
+* **CAT** (Caterpillar Inc.)
+* **VIG** (Vanguard Dividend Appreciation ETF)
+* **MSOS** (AdvisorShares Pure US Cannabis ETF)
+* **MGC** (Vanguard Mega Cap ETF)
+* **VGT** (Vanguard Information Technology ETF)
+* **PYPL** (PayPal Holdings Inc.)
+* **META** (Meta Platforms Inc.)
+* **SHOP** (Shopify Inc.)
+* **MA** (Mastercard Incorporated)
+* **AXP** (American Express Company)
+* **UNH** (UnitedHealth Group Incorporated)
+* **NFLX** (Netflix Inc.)
+* **ARKG** (ARK Genomic Revolution ETF)
+* **ICLN** (iShares Global Clean Energy ETF)
+* **ENPH** (Enphase Energy Inc.)
+* **PTON** (Peloton Interactive Inc.)
+* **BKNG** (Booking Holdings Inc.)
+* **LLY** (Eli Lilly and Company)
+* **ASTS** (AST SpaceMobile Inc.)
+* **LIN** (Linde plc)
+* **VRT** (Vertiv Holdings Co.)
+* **DUK** (Duke Energy Corporation)
+* **SOUN** (SoundHound AI Inc.)
+* **EA** (Electronic Arts Inc.)
+* **NKE** (NIKE Inc.)
+* **MCD** (McDonald's Corporation)
+* **ALT** (Altimmune Inc.)
+* **CRM** (Salesforce Inc.)
+* **CMG** (Chipotle Mexican Grill Inc.)
+* **INTU** (Intuit Inc.)
+* **VCSH** (Vanguard Short-Term Corporate Bond ETF)
+* **XLF** (Financial Select Sector SPDR Fund)
+* **SCHD** (Schwab U.S. Dividend Equity ETF)
+* **SCHG** (Schwab U.S. Large-Cap Growth ETF)
+* **LULU** (Lululemon Athletica Inc.)
+* **IBKR** (Interactive Brokers Group Inc.)
+* **BABA** (Alibaba Group Holding Limited)
+* **VALE** (Vale S.A.)
+* **FF** (FutureFuel Corp.)
+* **AMR** (Alpha Metallurgical Resources Inc.)
+* **NXT** (NexTier Oilfield Solutions Inc.)
+* **MTCH** (Match Group Inc.)
+* **BMBL** (Bumble Inc.)
+* **EVVTY** (Evolution AB)
+* **GAMB** (Gambling.com Group Limited)
+* **GCT** (GigaCloud Technology Inc.)
+* **PAYC** (Paycom Software Inc.)
+* **IMXI** (International Money Express Inc.)
+* **LRN** (Stride Inc.)
+* **PRDO** (Perdoceo Education Corporation)
+* **UPWK** (Upwork Inc.)
+* **SD** (SandRidge Energy Inc.)
+* **STNE** (StoneCo Ltd.)
+* **OPRA** (Opera Limited)
+* **KHC** (The Kraft Heinz Company)
+* **PBR.A** (Petróleo Brasileiro S.A. - Petrobras)
+* **CRESY** (Cresud Sociedad Anónima Comercial, Inmobiliaria, Financiera y Agropecuaria)
+* **BMA** (Banco Macro S.A.)
+* **BAP** (Credicorp Ltd.)
+* **OHI** (Omega Healthcare Investors Inc.)
+* **FNGU** (MicroSectors FANG+ Index 3X Leveraged ETN)
+* **RKLB** (Rocket Lab USA Inc.)
+* **SPYU**
+* **PLTR** (Palantir Technologies Inc.)
+* **ARM** (Arm Holdings plc)
+* **ADBE** (Adobe Inc.)
+* **ENPH** (Enphase Energy Inc.)
+* **PANW** (Palo Alto Networks Inc.)
+* **BA** (The Boeing Company)
+* **AMD** (Advanced Micro Devices Inc.)
+* **CRWD** (CrowdStrike Holdings Inc.)
+* **SNOW** (Snowflake Inc.)
+* **PL** (Planet Labs PBC)
+* **LUNR** (Intuitive Machines Inc.)
+* **MU** (Micron Technology Inc.)Comment by None: [deleted]
+Comment by generalright: What’s next, you’re going to list out all the letters of the alphabet?
+Comment by ccmart3: What is the purpose of this list exactly?
+Comment by Background_Drama6126: I'm afraid I don't see the point of your list. What is the purpose of your list of stocks and ETFs?
+Comment by Satorius96: Its like a watchlist but since this is a reddit post its completely useless
+Comment by TaxFrown: Wow thanks. I have below listed the set of consecutive three letter from this opening statement.
+
+WOW
+THA
+NKS
+IHA
+VEB
+ELO
+WLI
+STE
+DTH
+ESE
+TOF
+CON
+SEC
+UTI
+VET
+HRE
+ELE
+TTE
+RSF
+ROM
+THI
+SOP
+ENI
+NHS
+TAT
+ENE
+NT
+Comment by MaSupaCoolName: ALL 190 stocks and found? 
+Is this ALL stocks in your watch list or what?
+Comment by Straight_Turnip7056: Guys, give him/her/them some credit. If it's done programmatically with a script, this could be easily developed further and used to get a narrower list of "hot sto-nks" on Reddit. Feed it to a trading system (that buys PUTs or a straddle position) and you have an infinite money making machine 😁
+Comment by jimmyfromtheuk: Abcdefghijklmnopqrsuvwxyz
+Comment by Jera_Value: I was checking the community ideas and made a compilation, decided to share for everyone else in case they wanted it
+Comment by Jera_Value: Just compiling it for myself to get some ideas from the community, and wanted to share
+Comment by Jera_Value: Just a compilation of the stocks and funds people listed in the quarterly thread - may be a good place to start if you trust this subreddits judgement in stocks
+Comment by Jera_Value: As stated in the title, this is just a list of the stocks mentioned in the quarterly thread from September
+Comment by welloiledsling: Something against T?
+Comment by Background_Drama6126: Ah, I see!
+Comment by IcestormsEd: 'T' stands for 'Time' lost.
+Title : Help with understanding ENPH and FSLR
+Good morning,
+
+I've been researching about these two companies hoping to understand their difference, but it hasn't gotten to the point I'd like and was wondering if I could get reddit's help.
+
+So far I know: ENPH makes micro-inverters for solar panels and home energy management software that helps increase the energy efficiency. FSLR manufactures panels and solar power systems. Things I'd like to know are...
+
+* Are ENPH's micro-inverters used for both residential and commercial projects? or are they more focused in one area over the other?
+* Same question with FLSR's solar panels
+* ENPH's micro-inverter technology has been a game changer and is ENPH's moat. Does FLSR have their own moat regarding their manufacturing in solar panels? 
+
+I'm long in renewable solar technology and have \~7% of my portfolio in ENPH. However, I personally think the commercial side of it will bloom before residential, and am trying to find out which company (although they offer different products) is more tied to the commercial side so I can make adjustments to my investment if needed.
+
+Thanks in advance!Comment by Straight_Turnip7056: Enphase is good 👍 Anyone who believes in solar, EV charging themes, and power hungry data centers and A.I. needing renewable power, can look at ENPH. 
+
+
+It generally has shown negative beta, and the stock seems to make random, out of sync moves compared to market. Today was an exception. 
+
+
+Has shown strong buy volume spikes around $80. 
+Comment by ckreddituf: I am heavily invested in ENPH. Here is what I know..
+
+1. ENPH is mostly residential. 65% of the revenue in the US and the rest is from EU. They're expanding in other parts of the world but revenue at the moment is still very low. They have recently introduced products for commercial as well, but revenue is still very negligible.   
+2. I am not certain about FSLR. They produce panels - especially for utility scale. With the recent tariffs on panels imported from China, they seem to be more in play.   
+3. ENPH has a decent moat on the microinvertor tech, but their strength is their ecosystem - invertors, battery, EV chargers and energy management (last two still fairly new and I anticipate at some point in the future, they'll charge customers a monthly fee as they would help the customer save money on Energy management because of dynamic tariffs in various geos - a few years away though. 
+
+  
+I haven't invested in FSLR but I am definitely interested in it.
+Comment by stickman07738: After reading this article, I decided to sit on the side lines and watch this time around.  Just too many uncertainties.
+
+Good Luck.
+
+https://www.ciphernews.com/articles/chinese-solar-firms-pursue-u-s-europe-markets-despite-obstacles/
+Comment by Longjumping-Seat3581: RemindMe! 1 week
+Comment by criteradeli: Haven’t invested in them but I have traded both. I’ve noticed that while both are very interest rate sensitive FSLR seems to hold up better when there is bad interest rates news. Which makes me think they will do well in favorable interest rate environment Seems they still able to show some earnings in a bad environment for their industry. ENPH less so. They are both best in class in the industry but if I had to pick one for long term it would be FSLR but I haven’t done a deep dive into their fundamentals. I expect both will pop on cuts but I think FSLR will maintain the pop where ENPH will not because of there is a lot of people underwater on ENPH.
+Comment by SxeySteve: FSLR makes panels for utility scale solar. They don't do any residential. They are the industry leader in that segment in the US and have a multi-year backlog of orders.
+
+Their (narrow) moat is a proprietary panel design and manufacturing process that reduces the cost per watt and is much less energy intensive to build.
+
+Chinese manufacturers are heavily subsidized by the state, and are a risk to FSLR's moat. Current protectionist policies are keeping them from flooding the market and crashing prices, but if policy changes it could wipe out their moat.
+Comment by TimeTravelingChris: The case against ENPH is that they don't really have any moat. Anyone can make what they make.
+Comment by Jeffwul: I would not equate all those things with Enphase. Residential, charging, storage yes. Utility level power including data centers is First solar. I’m long Enphase. Both are the only investable solar companies to me. 
+Comment by RemindMeBot: I will be messaging you in 7 days on [**2024-08-15 16:53:40 UTC**](http://www.wolframalpha.com/input/?i=2024-08-15%2016:53:40%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1en8wpa/help_with_understanding_enph_and_fslr/lh4udl8/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1en8wpa%2Fhelp_with_understanding_enph_and_fslr%2Flh4udl8%2F%5D%0A%0ARemindMe%21%202024-08-15%2016%3A53%3A40%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201en8wpa)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+Comment by Jeffwul: I would look closer in this cycle. Enphase continues to turn organic profits despite being residential. First solar percentage profit above enphase is reliant on the IRA tax credits. However I agree long term thesis that first solar would be less affected by interest rate increases as they become more integrated with utilities. 
+Title : Enphase Energy Non-GAAP EPS of $0.43 misses by $0.05, revenue of $303.5M misses by $6.17M
+* Enphase Energy  (NASDAQ:ENPH): Q2 Non-GAAP EPS of $0.43 misses by $0.05.
+* Revenue of $303.5M (-57.3% Y/Y) misses by $6.17M.
+* GAAP gross margin of 45.2%; non-GAAP gross margin of 47.1% with net IRA benefit
+* Non-GAAP gross margin of 41.0%, excluding net IRA benefit of 6.1%
+* GAAP operating income of $1.8 million; non-GAAP operating income of $61.1 million
+* GAAP net income of $10.8 million; non-GAAP net income of $58.8 million
+* GAAP diluted earnings per share of $0.08
+* For the third quarter of 2024, Enphase Energy estimates both GAAP and non-GAAP financial results as follows:
+   * Revenue to be within a range of $370.0 million to $410.0 million, vs. $408.41M consensus, which includes shipments of 160 to 180 megawatt hours of IQ Batteries
+   * GAAP gross margin to be within a range of 45.0% to 48.0% with net IRA benefit
+   * Non-GAAP gross margin to be within a range of 47.0% to 50.0% with net IRA benefit and 39.0% to 42.0% excluding net IRA benefit. Non-GAAP gross margin excludes stock-based compensation expense and acquisition related amortization
+   * Net IRA benefit to be within a range of $30.0 million to $33.0 million based on estimated shipments of 1,100,000 units of U.S. manufactured microinverters
+   * GAAP operating expenses to be within a range of $138.0 million to $142.0 million
+   * Non-GAAP operating expenses to be within a range of $79.0 million to $83.0 million, excluding $59.0 million estimated for stock-based compensation expense, acquisition related amortization and restructuringComment by No_Tear_7186: They also did $100m buyback
+Comment by II-TANFi3LD-II: From their Filing
+
+>In the second quarter of 2024, we repurchased 891,896 shares of our common stock at an average price of $112.02 per share for a total of approximately $99.9 million. We also spent approximately $7.5 million dollars by withholding shares to cover taxes for employee stock vesting and options in the second quarter of 2024 that reduced the diluted shares by 66,126 shares.
+Comment by MrTouchnGo: Their revenue dropped 57% YoY? I haven’t been following ENPH in a while; what happened?!
+Comment by ij70: surprise!
+Comment by briaro: not bad
+Comment by datcommentator: Interest rates have killed them.
+Comment by vsMyself: Lots of solar companies have gone out of business. Enph is projecting up to like 400m for next quarter so it's recovering.
+Comment by Upstairs_Shelter_427: California had some regulations which royally fucked over the solar installation market.
+
+  
+It's so bad that Texas and Florida are trending to installing more solar power than California this year. California was Emphases largest market.
+
+
+
+However, these effects should trail off by the end of the year and the California market should see some stability starting next year. But it has been a bloodbath for solar in California the past 12 months.
+Comment by SuperSultan: That’s just their projection. Guidance might not pan out at all
+Title : These are the stocks on my watchlist (7/23)
+Hi! I am an ex-prop shop equity trader.
+
+This is a daily watchlist for trading: I might trade all/none of the stocks listed, and even stocks not listed! I only hold MAG7/market indices long-term. If you use Old Reddit, click “Show Images” at the top to expand the charts. Any positions stated aren’t recommendations, I’m following subreddit rules to disclose positions.   
+
+Some stocks I post may be <$500M market cap. These are potentially good candidates to day trade; I have no opinion on them as investments. PLEASE ask specific questions. Questions like “Thoughts on _____?” or “Is ___ a good investment?” will be ignored or I’ll troll you unless you add detail and your own opinion. I will block you if you are a troll. 
+
+News: [Cyber Firm Wiz rejects Alphabet’s 23B offer, seeks IPO Instead](https://www.bloomberg.com/news/articles/2024-07-23/cyber-firm-wiz-rejects-alphabet-s-23-billion-offer-seeks-ipo)
+
+- [**CRWD**](https://finviz.com/quote.ashx?t=CRWD&p=d) - Third day of trading since the outage, I’ll be looking for signs if CRWD has turned, but obviously I can’t tell the future. (Watching S, SentinelOne as well). Currently long. 
+- [**SPOT**](https://finviz.com/quote.ashx?t=SPOT&p=d) - Reported Q2 earnings, revenue growth of 20% YoY. EPS of $1.43 vs $1.15e. Monthly Active Users (MAU) grew 14% to 626M.   
+- [**UPS**](https://finviz.com/quote.ashx?t=UPS&p=d) - Falls after earnings miss and forecast. Profits fall 30% YoY. Revenue of $21.8B vs $22.18B exp. UPS returned to growth in terms of shipping volume for first time in nine quarters (normalization from pandemic highs).  
+- [**TSLA**](https://finviz.com/quote.ashx?t=TSLA&p=d) - Watching due to earnings today after the close- leaning bearish, I usually only trade after earnings have been released but I will likely take a VERY small position short beforehand.  
+- [**GOOG**](https://finviz.com/quote.ashx?t=GOOG&p=d) - News linked, will be interesting to see how it trades today due to the cancelled acquisition and how earnings will go due to it. Other than that will stay mostly hands-off. 
+ 
+Earnings: TSLA, GOOG, V, ENPHComment by PaperDoggie: I just want you to know. Checking your daily update is now part of my morning routine.
+Comment by jazerac: UPS seems like a no brainer long term value play at this point. Practically a 5% yield. Just bought $150k in it. Will sit on it for however long I need to as it recovers while earning 5%.
+Comment by DemisHassabisFan: Fire
+Comment by pramttl: For CRWD with the unprecedented outage there has been a lot of lost trust, the whole reason companies used them has been to protect themselves from hacks and outages, so that lost trust with this outage, may be harder to rebuild. I anticipate continued pullback in CRWD at-least in the near-term (long term can reverse), S to me seems like a better play because they have a great opportunity to capitalize on the negative PR around their competitor and convert former CRWD customers giving them faster revenue growth. (I could be wrong, this is is not investment advice).
+Comment by Charlieclc1: Update me
+Comment by QTheory: No love for FTAI? Revenue up 61%. Stock up 5% AH.
+Comment by playa4thee: Thanks for sharing your list.   
+Wondering what you think of AVGO? I just purchased about 30 Shares.   
+I have about 300 Shares of NVDA and NVDL. I make a killing selling covered calls on the latter.
+Comment by lordinov: All tank
+Comment by mondayoptions: Good stuff
+
+I allowed my TSLA shares to get called away last week. No clue whats going to happen on this one.
+
+Looking to get back into CRWD when the dust settles
+Comment by Severe-Doughnut4065: 🔥
+Comment by None: [deleted]
+Comment by DroTooCold: Are you bearish on TSLA?
+Comment by WinningWatchlist: Thank you for the KIND words :) ![gif](emote|free_emotes_pack|slightly_smiling)
+Comment by DPR485CO: I agree with you - it is a great long term value play and the 5% yield doesn’t hurt.   I bet this stock will be back in the 140 range by early next year.
+Comment by goinghome81: As an IT discussion at the corp level what would be the unwind cost out of CRWD and into S?   That has to be one of the biggest questions customers are asking.  However when it comes time to renegotiate the next contract term, I would want to recover all of my $$lost plus the loss of Goodwill with my customers.  I don’t think I am stand alone on these same questions
+Comment by Ancient_Barber_2330: Completely agree. The only unanswered question: Is SentinelOne ready to scale up quickly if many customers start shopping for another EDR or XDR solution? I hope so.
+
+CRWDs customer base is almost exclusively big businesses with 10,000+ endpoints.
+Comment by WinningWatchlist: on what babe
+Comment by WinningWatchlist: Too illiquid to trade, so sadly, no. Did less than 10K shares AH.
+Comment by WinningWatchlist: Not too interested in it, my main focus is on earnings this week.
+Comment by WinningWatchlist: These are not recommendations to buy or sell, just stocks I'm watching for potential trades.
+Comment by Sriracha_ma: Why CRWD again ? sentinel one is the obvious play
+Comment by WinningWatchlist: ![gif](emote|free_emotes_pack|grin)
+Comment by DropTablePasswordz: Do you mean 500 million? 500 billion is about 4x its current market cap haha
+Comment by WinningWatchlist: I would suggest reading the post! 🗿
+Comment by jazerac: Agreed!
+Comment by Charlieclc1: LOL misspoke
+Comment by WinningWatchlist: To me, CRWD’s potential recovery is greater than S’s potential gain
+Comment by mondayoptions: I still feel like CRWD is best in breed. Memory is short. This reminds me of the Chipolte fiasco years ago. One bad move tanked the stock. Rocketed right back up
+Comment by standontwofeet: Right yeah, my bad.
+Comment by DroTooCold: I skipped over that, my mistake brother🗿
+Comment by Sudden-Ranger-6269: When is your book coming out with your ‘20/80 asset allocation’ invention?!?!
+Comment by Sudden-Ranger-6269: How’s that 80% bonds going while SP500 is up 14% this year?
+Comment by mondayoptions: agreed
+Comment by Sriracha_ma: Lmao this is not like chipotle at all - anyway, you do you and I will buy S.
+Comment by jazerac: With dividends and interest, at 12%!
+Comment by mondayoptions: right, different issue. but shows that one bad move by a company can tank its stock, and how the public can forget as it improves its business. 
+
+also like S. I'll be doing a deep dive on it next.
+Comment by Sudden-Ranger-6269: Sure… That’s why everyone recos 20/80… 🙄
+Comment by jazerac: Lol. I never said I'm 80% bonds. I said 80% fixed income,  which includes bonds. I find it more interesting you continue to troll me. Get a life dude.
+Comment by Sudden-Ranger-6269: Sure… Write that book on how “20/80” is the new Asset Allocation model and let’s see how it sells. There is no where on the entirety of the internet that recos 20/80. Even the crazies don’t go there…
+Comment by Sudden-Ranger-6269: Wanker
+Comment by Sudden-Ranger-6269: Wanker 🤡
+Comment by Sudden-Ranger-6269: Wanker
+Comment by Sudden-Ranger-6269: Wanker
+Comment by Sudden-Ranger-6269: 🤡
+Comment by Sudden-Ranger-6269: Wanker
+Comment by Sudden-Ranger-6269: 🤡
+Comment by Sudden-Ranger-6269: Wanker
+Comment by Sudden-Ranger-6269: 🤡
+Comment by Sudden-Ranger-6269: 🤡
+Comment by Sudden-Ranger-6269: 🤡
+Comment by LegitimateBeing2: That doesn’t make any sense
+Comment by LegitimateBeing2: Doesn’t make any sense
+Comment by LegitimateBeing2: Quit complaining and get a job
+Comment by LegitimateBeing2: Quit complaining and get a job
+Title : Bought a ton of ENPH! Would love to hear your thoughts.
+Actually 1000 shares - 119 average. 
+
+If you don’t know Enphase(ENPH) they’re in Solar industry and does residential/small scale micro inverters, batteries and software for the solar setup. 
+
+It’s beaten down because of the interest rates. Over the last year or more, they’ve rapidly expanded in EU. Their biggest market in US is California and it’s struggling because of NEM 3.0. NEM 3.0 makes it difficult for homeowners to break even unless they install batteries as well. Enphase offers batteries as well and has much higher margin than a typical micro inverter install. 
+
+Why I’ve invested now:
+
+Their guidance is higher than previous quarter earnings, important because they’ve had 4 quarters of declining revenue. Peak of 726 million in Q1 2023 and most recent being 263.3 million in Q1 2024. Their CEO thinks they’ve reached bottom and ready for the next cycle. (I’m sure every CEO is optimistic but he’s a no bull shit guy) 
+
+While their sales in US decreases 34% in US, they’ve increased 70% in EU over the past quarter. Of course, they’re starting very low in EU and increase makes sense but I’m very optimistic. 
+
+I don’t know what’s going to happen with interest rates/inflation in US. Last few indicators seem good and this week’s PCE is going to be super important. 
+
+Needless to say, market is forward looking and this will jump before the action begins. 
+
+Also, ENPH is eating SEDG (their main competitor) market share. Look at the earnings if you like to. 
+
+
+Would love to hear your thoughts here..
+Comment by AutoModerator: Welcome to r/stocks!
+
+For beginner advice, brokerage info, book recommendations, even advanced topics and more, please read our [Wiki here.](https://www.reddit.com/r/stocks/wiki/index)
+
+If you're wondering **why a stock moved** a certain way, check out [Finviz](https://finviz.com/quote.ashx?t=spy) which aggregates the most news for almost every stock, but also see [Reuters](https://www.reuters.com/), and even [Yahoo Finance](https://finance.yahoo.com/).
+
+Please direct all simple questions towards the stickied Daily Discussion and Quarterly Rate My Portfolio threads (sort by Hot, they're at the top).
+
+Also include *some* [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) to this post or it may be removed if it's low effort.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*
+Comment by wilan727: Solar is a mega play in terms of powering planet earth now and in the future. But for me it's a classic love the product hate the stock. I wish you luck on your play and my underperforming 60 enph stocks hope so too.
+Comment by DesolateShinigami: ENPH and NXT are the best stocks in solar. Enphase simply changed the industry and are looking golden for a long term investment. As soon as rates go down the stock will go upwards. 
+
+With AI and data centers increasing the demand for energy you’re even getting into a trending market. I can see this stock going down this year if there is no rate increase because the industry does relate to it despite subsidies. But it doesn’t matter if you’re doing a lump sum play for a multi year hold. 
+
+Good pick and price.
+Comment by ij70: pray that company survives high interest rate period and lower oil price period.
+Comment by nickdanto: With rates not changing anytime soon you should start to see a pattern with sales if they miss take your money
+Comment by papichuloya: Set stop loss .
+Comment by Mordrim: I have a starter position in ENPH.  I will look to buy the rest later this year, after the August-September swoon.
+
+I think solar stocks are beginning to rebound.  The first clue is FSLR breaking out to new highs.
+Comment by StoneIsDName: I work for the largest middle man of solar products in the country. My suggestion is to sell and put into something else
+Comment by rueggy: Surprising number of bearish comments makes me think inverse is the play, that is to say it will go up.
+Comment by arbyman85: It depends. They took sedg out so less competition is definitely a positive. Now the negative.
+
+Nearly every major US solar EPC/installer declared bankruptcy so the rate of installs will remain a significant drawback to growth. Most backlogs are 6+ months and you can’t just snap your fingers and bring these guys back
+
+Financing a solar project is an absolute nightmare at 12%, which is why Sunnova, Sunrun, etc… did so well on leases and PPAs. They now have a very bad look. Fed Rates aren’t going down any time soon and real rates for solar will only go up from here are as economy slows. Higher risk = Higher overall lending rates.
+
+>50% of states are set to vote on ending Net metering by the end of year, at least some will be successful
+
+Election is in November, and a complete Republican ticket likely won’t have enough votes to end IRA, but a simple majority will be sufficient to apply new rules for the money to completely negate its original intended purpose.
+
+Enph is far better choice than fslr that is about to be the next sedg now that Qcell just started US manufacturing and is getting subsidies. Fslr doesn’t stand a chance and it’s why c-suite cleared out all their shares in rally and investment firms are dumping like crazy. Enph a much brighter future if it overcomes those challenges.
+Comment by butts____mcgee: The solar market is massively overcapacity. There are literally thousands of GW of panels just sat in warehouses because grid infrastructure has not been developed enough to handle so much more intermittent production.  
+
+This means solar companies are years from being 'price setters'. Returns on capital will remain low.
+
+Furthermore, despite the recent derating we are still not seeing much industry consolidation. In fact, many companies are still spending like crazy. The overcapacity also means barriers to entry are actually quite low. Competition is high, and is encouraged by government subsidies. 
+
+I love solar technology. It is world changing. But I wouldn't invest in the solar industry until the cycle turns considerably.
+Comment by CJ96Syd: The time to buy ENPH if any was the dip to $75 back a few months ago
+Comment by None: Fair reasons to be invested. But have you figured out if it’s below the price you think it should be valued at. And if so how are you coming to that number. Declining numbers in the US is alarming because that’s a way bigger market than Europe. 
+
+Enphase is worth around 2-5B imo
+Comment by None: Overvalued! Inflation, interest rates and geopolitical climate it’s why it’s down and struggling 
+
+Wouldn’t be touching it
+Comment by TigersBeatLions: It's a bad ass investment long term. America is gonna go thru a overhaul of residential and commercial properties as they pivot to carbon neutral so solar will take off again at some point and ENPH will be a winner.
+Comment by usrnmz: It might look beaten down.. but imo it's heavily overvalued.
+Comment by DanielzeFourth: I sold my enphase three weeks ago. The reason for it is: So many earning calls are saying consumers are cutting back on spending. If they are buying cheaper options on Amazon and aren’t eating out as often at their favourite restaurant who is buying and setting up solar installations? But yeah of the thesis plays out. Enphase is most likely a 5x in the next 10 years
+Comment by Deadelevators: I’ve been considering buying ENPH too, mostly because I missed the FSLR train. From what I’ve heard though, the company has been badly managed?
+Comment by JackCrainium: What are the risks?
+Comment by datcommentator: To me, it's worth a small position -- possibly more once interest rates lower. The stock is up 40% since the 52-week low, so sentiment toward ENPH has shifted, at least in the short-term.
+Comment by Stocberry: I made 75% return on ENPH and feel it could shine again if Fed rate comes down this year. No issue with their products but US installers have financing problems and gas price is very competitive in U.S.
+Comment by 78fj: Consensus: Reddit hates it. Good reason for me to buy it
+Comment by _cabron: Lmao should have just bought NVDA, ENPH is a money pit
+Comment by JRshoe1997: Interesting choice, hope it pays off for you.
+Comment by Atriev: I shorted Enphase all the way to the literal bottom, then I went long. It’s been a stupid ride and I can’t believe I timed it so well. I have been intermittently commenting on Reddit about ENPH. Here’s the conversation I had with retail the week prior to me going long. https://www.reddit.com/r/stocks/s/T1W5FklLEI
+
+My friend timed it better than me so his cost basis is legendary but we both wrote a very lengthy short thesis together. 
+
+Edit: You know what? I actually need capital for a different investment. I am selling ENPH today. Been a fun ride, ENPH.
+Comment by iluvvivapuffs: Their CFO is literally trading the stock…she seems to be buying low and selling high
+
+(PE is too high to my liking. I bought at 120 a month ago and just got out)
+Comment by AustinLurkerDude: I have their inverters for my house but it doesn't make sense in future. With many States removing net metering, residential solar doesn't make financial sense. In commercial ground based settings individual inverters don't make sense. 
+
+Hopefully they succeed
+Comment by Lurking_In_A_Cape: What I like: EPS, Tangible Book Value, moderate debt, share repurchases, non-existent lease obligation, and positive free cash flow.
+What I don’t like: Share repurchases over debt repayment, share issuance as grants (lots), and plenty of recent insider selling.
+I also don’t think it’s fair to say they’ve been beaten down by interest rates. Their chart looks pretty much like every other company through the Covid highs and lows. Not a bad investment in theory, but personally I just don’t buy solar stocks because unfortunately, fossil fuels are the immediate future. Side note, o don’t buy gas/oil stocks either, just think they will likely remain making big money into the immediate future.
+Comment by kisuke228: Revenue is down by more than half. This isnt about interest rates
+Comment by Disastrous-Pay738: Yeah I’m gunna too. As a sympathy play to my fslr. Not as good tho
+Comment by damoclesthesword: When I hear a “ton” I’m expecting at least 2000
+Comment by obxtalldude: I'd really like to buy a solar stock, and ENPH has been on my radar for a while.
+
+But... do they have a moat?  I can't get a feel for who has any true advantage that will produce above market profits. 
+
+The industry will do great.  Still trying to figure out which companies have something special to set them apart.  The IQ8 seems to be a great product, but I can't see anything about it that won't be challenged by another company?
+Comment by Upstairs_Shelter_427: I am watching them for 4 quarters - 2 more quarters to go.  
+
+Basically there’s a few headwinds for solar:  
+-California made some very unfriendly regulations against rooftop solar 6 months ago. This was a huge market for Enphase indirectly.  
+-High interest rates.  
+-Inflation.  
+-Competition in the micro-inverter world is starting up.  
+
+I want to see how they perform for the rest of the year. Especially to see if the California market has stabilized or if they made up for the lost revenue elsewhere.
+
+
+Regardless - the future is bright for solar, with huge yearly growth that has only slowed - not stopped. And Enphase continues to have somewhat of a moat when it comes to software and hardware in the microinverter space - they’re the best.  
+
+
+My long term outlook? Revenue will grow a ton, while margins will shrink.
+Comment by xflashbackxbrd: You want utility scale solar here not residential, NXT and First Solar are good plays on that. Relevant news: https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html
+Comment by GoLoco511: Funny I run across this. It caught my attention today cuz it had insane call volume (also had a lot of puts, but was still like a 3:1 ratio of calls:puts). Was gonna take a look into it. Although I’m definitely seeing a lot negative comments here
+Comment by Imaginary-Kale4673: Never heard of it. But i can see it has a healthy balance sheet, not a lot of debt and trades like it’s a tesla (on the expensive side). It is concerning that the revenue falls like a rock 🪨 and that cannot be only because of interest rates.
+
+It’s a good gamble, maybe not for me.
+Comment by Invest0rnoob1: I think solar is looking better. I bought TAN leaps late last year.  Seems like there’s finally some positive momentum.
+Comment by informationstation: I had never invested before. I read a book about investing and looking for potential stocks. Literally didn’t know any tickers. I decided to try to look for the signals the book talked about. I wanted to be safe so I only invested like $100. I landed on ENPH and bought 11 shares at $8 a share and forgot about it. I’m kicking myself for not buying more at the time.
+Comment by cloud9employee32: Did you sell your positions ?
+Comment by UnobviousDiver: Have fun getting burned.  Just my opinion,  but way too high of an entry price especially for such a volatile stock.  I don't think it is a bad play, but not overly attractive until interest rates fall.
+Comment by None: Solar is being held back by the election. If Biden wins, expect a jump, but if Trump wins there will probably be another drop and eventually a market realization that solar is only going to keep growing regardless of who is in the White House.
+Comment by tomato119: logic would tell you they are struggling right now and will continue to struggle. But watch the MMs pump it to infinity as its one of the few stocks not yet pumped to infinity.
+Comment by slimdeucer: Should have bought at 60 in the coming dip
+Comment by gmemoney: Just switch ENPH to TSLA shares if you want exposure to solar
+Comment by dramarehab: Judging by your other responses,  there’s no way you bought $120k of shares lmao. You bought $700 of calls expiring this week and you’re trying to pump it
+Comment by Status_Regular_8858: Sell now.  Solar just boomed and will go down this week.  Take profit
+Comment by darktidelegend: Never heard of it and not going to research it lol 
+
+Hope that helps
+Comment by THNG1221: I’m afraid solar is a bearish sector. I’m loading up on NVDA instead.
+Comment by devopsy: I feel it’s better you could have bought MSFT it’s head towards to the next trillion and with AI it’s going to make amazing gains.
+Comment by vsMyself: Survival is not an issue. Just getting back to revenue growth.
+Comment by ckreddituf: There’s no problem of survival. They’ve decent cash flow! If the rates increase again, that’s a totally different scenario.
+Comment by Sir_Tandeath: The three most important words in trading, as far as I’m concerned.
+Comment by BitcoinOperatedGirl: Why?
+Comment by sirporter: Source: trust me bro?
+Comment by Upstairs-Weekend-934: I would recommend making a quick buck on Nvidia now before it splits and drops.
+Comment by real_kerim: Least for today, Pre-Market says Reddit is dum dum
+Comment by ronniebar: even a broken clock is right twice a day.
+Comment by Napoleon02121804: Enphase is not a solar panels company
+Comment by datcommentator: If the ENPH thesis plays out, the current valuation won't be so consequential.
+Comment by Vegetable_Read6551: Word. ENPH above 100 is a no go.
+Comment by always_foward: I even contest that. The time was when it was 4$ a share. I sold at 17$ and thought I was getting away with robbery then...
+Comment by Malamonga1: Europe has way higher renewable integration than the US, like WAY higher. US renewable portfolio didn't even start until around 2020.
+Comment by ckreddituf: TBH! I’m more interested only in California and EU. NEM 3.0 eventually does good for storage solutions given the high electricity costs. EU’s solar is much more interesting/money making than US.
+Comment by always_foward: This. It took an astronomical leap from 4$ to 20$ pre pandemic. Anything north of 70$ including all the inflationary pressures since is probably optimistic at best given their US numbers. The market gives zero fucks about proper valuations right now apparently, but bet your boots plays like $ENPH will be the first to take big haircuts when stock metrics eventually matter again.
+Comment by NotGucci: It's so funny earnings Calls for fast food was shit.
+
+Deck,. Crox, urb, elf totally different story everyone spending money.
+Comment by ronniebar: > I'd really like to buy a solar stock, and ENPH has been on my radar for a while.
+> 
+> 
+> 
+> But... do they have a moat? I can't get a feel for who has any true advantage that will produce above market profits.
+> 
+> 
+> 
+> The industry will do great. Still trying to figure out which companies have something special to set them apart. The IQ8 seems to be a great product, but I can't see anything about it that won't be challenged by another company?
+
+No Moat - just a proprietary technology to do the same as other companies in a different technique that comes with its own pros and cons.
+Comment by ronniebar: How are they a moat in the software space? The software is quite possibly the most similar part between inverters.
+Comment by ckreddituf: Nope, I will hold at least until the earnings. EU elections and the presidential debate didn't help at all!
+Comment by seeyoulaterinawhile: It will be more expense when interest rates fall
+Comment by -Mx-Life-: Kind of sort of...I think it has more to do with Congress and tax rules.  If the energy tax credits go away you can expect solar to go down hill.  I wouldn't blame it on the Pres necessarily.
+Comment by lVloogie: I think your timeline is way smaller than OP. TAN is down 31.74% this year. That's not a boom.
+Comment by ckreddituf: Nothing wrong with NVDA. I doubt it’ll become a 10T company in the next few years.  It’s all about what gives more returns in the next year or so.
+Comment by None: Things are gonna get worse before they get better, and they can get real bad
+Comment by Amins66: Dumb statement, they almost went bankrupt twice, investor fraud... stock went down to 1 buck... they gutted everything just to make it through.  Burned alot of families in the northbay before relocating. 
+
+Dumb statement.
+Comment by PaulP314: Sounds like a sympathy play for missing out on flsr.
+Comment by My_reddit_strawman: Seems like a good way to get stopped out before the run
+Comment by StoneIsDName: High interest rates and tariffs are not going to be s fun combo for the industry.
+Comment by laveshnk: If it splits and drops shouldnt you wait for that to happen to buy
+Comment by butts____mcgee: What's your point? The whole value chain is affected by the same issues. If you must be in solar then I do think the better place to be is in inverters, backplates,  fluoropolymers, yes.
+Comment by None: Exactly why the US is a bigger market. Wealthier and has had less integration. If anything the slowdown should be seen in Europe first rather than the US
+Comment by Creative_Evening2043: Are you aware NEM 3.0 is going to be heard in California supreme court probably around September?
+Comment by DanielzeFourth: I'd rather listen to the company that has 38% of the e-commerce market than the three companies you picked out that probably together don't even get to 0,5% of the e-commerce market
+Comment by Upstairs_Shelter_427: They have software defined inverters that allows them to do grid forming for example. Not something I’ve seen with other brands.
+Comment by cloud9employee32: Tell me about it. It’s frustrating watching it everyday starting green and ending red
+Comment by DieuEmpereurQc: I thought from the guidance and previous quarter that we should be at the turning point. Let see how it goes
+Comment by TheSpinBoy: Well, as Peter Lynch used to say, let your winners run and cut your loses short
+Comment by Old_Pangolin8853: Same thesis now?
+Comment by Upstairs-Weekend-934: Sure thing. You can benefit both times. The second time round, the wait could be a wee bit longer. 
+This time, however, it could surpass 1100 before June 7. Don't take my word for it, do your homework as well.
+Comment by Inconceivable76: It would certainly be a choice for a the CA Supreme Court to decide removing a regressive subsidy that hurts poor people cannot be removed, considering the plantiff’s argument is that removing the subsidy hurts poor people.
+Comment by ronniebar: Working for a company in the same field - they’re far from the only ones
+Comment by None: It's unlikely to happen in the short term, but long term with the chinese solar bans and the inflation reduction act, you have a lot of long term tailwinds. It is a hard industry because tech and price are all that matter to customers, but Enphase is a fairly good company, and they could potentially do very well in a green future
+Comment by None: Why do you say this?
+Comment by None: A stock going down doesn't mean the company is failing.
+Comment by StoneIsDName: Honestly idk haven't even thought about the stock since this post I'm not allowed to invest in solar in my position. Plus my neck of the woods has been very different from the rest of the country I think solars still down overall. But I mean rates going down should equal sales going up.
+Comment by klarag8924: At 1094$ "it could surpass 1100 before 10 days from now" kinda a no shit Sherlock in my eyes...
+Comment by laveshnk: Absolutely. I think ill wait for the split to buy it, didnt expect it to cross 1k last week tbh. 
+
+Man I just wished i bought some shares when it dropped to 730 and change last april… couldve made some buck with that.
+Title : These are the stocks on my watchlist (2/7)
+  
+No positions in any stocks long-term but Amazon/Mag7/general broad market indices. (unless otherwise noted in these tickers)
+
+  
+To clarify since I've been asked: I usually make these watchlists premarket, (or from 6:30 to 7 as time permits), but can be delayed if I'm trading the open. These aren't mean to be taken as gospel: they're just my perspective of where a stock could potentially go. Percentages signify what the stock is trading at when I write up the report and are NOT predictions of stock price EOD. Some of the stocks I post are <$500M market cap and are NOT good long-term investments, but are good candidates to day trade.  
+
+
+News: NYCB’s Credit Grade Is Cut to Junk by Moody’s
+
+  
+**NYCB,** liquidity 9/10- Extreme bankruptcy fears- IMO worth playing this if an upside catalyst, but still staying away for now. Junk status. This is something we should be staying away from until more news develops.   
+**SNAP,** liquidity 10/10- Poor earnings/guidance. Blames Israel/Palestinian conflict for poor performance.  
+**ENPH,** liquidity 7/10- Announced positive earnings/guidance, $140 level worth watching long-term. 📷  
+F, liquidity 9/10- Announced earnings yesterday, stock up 2%+. $13 and $12.20, and $12 levels worth watching.  
+**XPO-** Positive earnings beat, stock up close to 15%. “Outperformed on every key operating metric”.📷  
+
+
+**BABA,** liquidity 8/10- Reports miss on earnings, approves $25B share buyback. Personally not a fan but will continue to watch   
+**Earnings-** DIS,CVS, GPRO, MAT, WYNN after the close
+
+  
+**Long Term Watches**  
+**FXI/YINN/YANG/BABA/Chinese stocks-** China equity markets have been weak, worth watching for additional news catalysts. 
+
+  
+**SAVE,** liquidity 9/10- SAVE still making massive moves- not worth trading unless we see a news catalyst. US Appeals court has expedited review of JBLU/SAVE deal at the moment.Comment by FACOSERO: Snap is dead. They constantly miss expectations and keep investing heavily in making their app profitable but still doesn’t work. I dont see much growth either in snap as its popularity is slowly decaying. ENPH with low IRs is gonna pop though
+Comment by edtitan: SNAP blaming the Mideast conflict is such utter bullshit.
+Comment by Far_Sentence_5036: I would look at burberry: 
+
+Burberry will be another Tiffany
+
+Is Burberry takeover target? I see similarities to When LVMH bought Tiffany a few years ago
+
+Its stock is down 46% YTD to 4.6bn market cap with 0 debt.
+
+Its had 2 major profit warnings in the last 12 months.. but on 14x PE surely its a nice target for peers.
+
+Daniel Lee (creative designer) had major success at Bottega Veneta (Kering) but so far at Burberry so far 1.5years traction is only just starting.
+
+I agree that the whole apsirational luxury segment isn’t doing great. Gucci is struggling. Only LVMH, Hermes or Cuccinelli are doing well.
+
+But Burberry has to be a interesting option for LVMH or Kering. or maybe PE?
+
+There are hundreds of italian and french lux brands, but only a few british ones.. There has to be quite alot of potential in the business.
+
+Similar to how LVMH bought the most iconic US brand tiffany for $16bn.
+
+LVMH market cap is 390bn.. They could buy burberry for 1% of their market cap.. issue shares or use some of their cash.. 
+
+I think the wolf in cashmere ( Mr Arnault) is ready!
+Comment by Macgruber999: Stay AWAY from anything China.
+Comment by None: I've seen enough horror stories about XPO deliveries to ethically avoid them lol
+Comment by Smack_7: Elf beauty
+Comment by Revfunky: My watchlist has over 200 stocks. Thomas Bulkowski’s watchlist is around 600 stocks.
+Comment by draw2discard2: I'm fairly optimistic about ENPH. The solar industry has absolutely been hurt by interest rates, which we expect to reverse (sooner or later). That's a major point they made today at earnings and they saw a huge boost. The only bad thing for me is that I bought early January so the huge boost today really just reversed the loss since I bought ("Timing the market beats time in the market...") but I am looking for it to continue upwards.
+Comment by Impossible_Gas2497: I’m a big ENPH believer
+Comment by mrericvillalobos: GPRO (crossing fingers)
+Comment by margincall-mario: NYCB is downgraded to BBB- which is very hardly junk. Better than most the garbage you see on this sub.
+Comment by Thick_Expression_796: What is your take on VKTX ? I really feel it’s a good stock but the ceo just sold a lot of shares but it still seems strong. Can you give some advice on this one?
+Comment by Think-Variation-261: I've been buying small amounts of NYCB since the 2nd down day. Was down to 14% this morning before finishing up 4%.
+Comment by None: Rumble
+Comment by None: I made great money on snap got it at 7 and sold at 17
+Comment by Sadiezeta: Talk about undervalued. AIRI ‘s share price today is only $.39 pre R/S price. Market Cap only $12.48 million, less than 1/4 annual revenue. Undervalued hugely.
+Comment by SB52Birds: IHS - emerging market tower play that has been crushed since its IPO. Lots of risks involved, mainly the current devaluation of the nigerian currency (~70% of revenue). 
+
+However, it is currently trading very discounted imo. $50m share buyback and today they just won a large contract that will replace revenue from a lost contract to AMT. Again, lots of risk, but something I have recently initiated a large position in. 
+
+I’m expecting either a nice appreciation in the next few years as rates fall and Nigeria stabilizes its currency or a buyout from its largest shareholders (Wendel and MTN own around 45% and in July the company consulted JPM about warding off a hostile takeover). Do your own research of course
+Comment by edtitan: Kicking myself not selling before they announced. Still I’m about even as I’m DCA at $11.50. I’m hoping for a bounce and getting out of this shit stock.
+Comment by WinningWatchlist: I agree lol.
+Comment by deepstate_chopra: Clinton Fatigue
+Comment by istockusername: Interesting take, I would argue that the main difference between Tiffany and Burberry from the perspective of LVMH was that Tiffany was a good option to diversify their sector and add strength to the jewelry segment. Burberry, on the other hand, would just be another fashion brand in the already large clothing segment. Seeing that Burberry is more affected by the current consumer weakness is also a sign that their customers are mostly from the aspirational cohort and not as wealthy as the regular LVMH consumer.
+Comment by OlliBoi2: Challenging to do when Chinese company with deep pockets buys your investment company and turns it into a trading shell.
+Comment by airwa: Got it, buy calls
+Comment by None: [removed]
+Comment by phatone76: Looking at Micro cloud hologram… shot up in the last week.. is this just going to drop like a stone. I got in at $8.47 yesterday and made a fair amount. (I’m pretty new to this and not investing hundreds so just trying to learn atm)
+Comment by WinningWatchlist: https://www.reddit.com/r/meme/comments/f9rtcy/stupid\_keebler\_elf/
+Comment by WinningWatchlist: Take it up with Moody's not me lol, I’m not the ratings agency
+Comment by istockusername: It’s relatively bad
+
+https://www.advratings.com/finance/us-banks-ratings
+Comment by FACOSERO: Yeah that happens. I had to sell pfe and Baba at a loss. Tried Dcaing but realized I was just gonna lose more money
+Comment by Far_Sentence_5036: All very fair points.
+
+agree that tiffany gave lvmh more jewerly were it is underweight in. And the US lux consumer has been turbocharged in recent years.
+
+Also agree that brby has shown in recent quarters it is not hermes or cucinelli. Its not ultra high net worth.
+
+But at the right price its hard not to see the value of the brand under better distribution that lvmh can give them
+Comment by Macgruber999: We’ve all been there.  Sadly we all make huge mistakes too.  I’m nobody and I know nothing & no one ever told me this when I started. If you’ll allow me to dump a few nuggets I’ve learned. 
+
+Before that tho, I’ve lost 120K+ chasing NIO. Hence my jaded feelings to all things China. 
+
+I’ve also made 600k+ being smart and investing “correctly” but some easy lessons to pass would be this. 
+
+No one not any hedge fund manager not any tv “expert” no YouTuber NO ONE can beat the S&P500 over a long period of time. Like 15+ years I’m saying. Boring but simply DCA’ing into some S&P 500 ETFs over your life you will retire a millionaire.  DCA Dollar cost average. Every month or week decide how much you can invest, spread it around a few ETFs and 10-20% whatever your risk tolerance into the fun things the Teslas the Palantir’s etc.    every month you’re set amount, sort of like a 401K.  When times are bad, fear everyone panicking, double your monthly amount. Green Day’s we love but red days we get big discounts. Keep pumping into these weekly monthly whatever and you will 100% win over time.   Stay away from Options as temping as they are until you understand them.  Takes like a year to truly grasp everything about options.  They can make or break you really fast but it’s just gambling end of the day.   NIO aside, most critically if tell you NEVER SELL. If the sky is falling and everyone’s freaking out, if the fundamentals haven’t drastically changed, never ever sell.  Hold through the dark times and you’ll likely win in the end. This isn’t always true sometimes obviously, company’s Crap out but in general this holds true. I got a lot more but this is getting long.   Avoid Options for now though trust me haha
+Comment by Smack_7: Well it’s given me over 50% return so far
+Comment by margincall-mario: Moodys is a joke, they based on the fact the regulators forced the bank to get rid of the chief of risk. They really don’t have a balance sheet issue, just questions on short term profitability.
+Comment by WinningWatchlist: Congrats! I have nothing against ELF lol, I just love keebler elf memes.
+Title : Reddit ETF progress from Jan 2021 to Jan 2024
+This [Reddit ETF post](https://www.reddit.com/r/stocks/comments/ku6skz/reddit_etf/) was posted at the beginning of 2021, near the period of peak euphoria.  Anyone who was around at the time can testify that this really did represent consensus opinions in this sub at that time, which you can see in the comments of that post.  Note that the game store madness did not really begin until a couple weeks later, which is why it did not appear here.
+
+I felt like it was going to play out poorly so I bookmarked it, and now have been doing yearly updates to see how the sharp, financial geniuses of the time did.  After all, for something like this, you really need to give it a multiple year timeline at least.  All 2024 prices use the closing price Friday.
+
+*I used a $100,000 initial investment and just rounded all the prices to the dollar for visual simplicity (all entries use the real, full prices, I have just rounded them for this table).  This also backtracks prices from stock splits.*
+
+|**TICKER**|**Jan8, 2021**|**Jan19, 2024**|**% change**|**Initial $**|**Final $**|
+|:-|:-|:-|:-|:-|:-|
+|TSLA|293|209|\-29%|5000|3558|
+|AMD|95|174|\+83%|5000|9170|
+|PLTR|25|17|\-33%|5000|3356|
+|ICLN|33|14|\-58%|5000|2084|
+|NIO|59|6|\-90%|5000|514|
+|SQ|241|66|\-73%|5000|1366|
+|NET|79|81|\+3%|5000|5149|
+|DKNG|52|38|\-28%|5000|3617|
+|NVDA|133|595|\+347%|5000|22354|
+|AAPL|132|192|\+45%|5000|7256|
+|ENPH|207|104|\-50%|5000|2502|
+|PLUG|67|3|\-96%|5000|200|
+|SE|210|36|\-83%|4000|693|
+|BABA|263|69|\-74%|4000|1056|
+|CRSP|164|62|\-62%|4000|1512|
+|TSM|119|114|\-4%|4000|3839|
+|AMZN|159|155|\-2%|4000|3908|
+|DIS|179|93|\-48%|4000|2080|
+|ABNB|150|140|\-7%|4000|3732|
+|FSLY|88|19|\-79%|3000|640|
+|CRM|222|281|\+27%|3000|3796|
+|ARKG|106|29|\-73%|2000|544|
+|JMIA|37|3|\-92%|2000|158|
+|JD|92|22|\-76%|2000|485|
+|**TOTAL**|\-|\-|**-16%**|**$100,000**|**$83,579**|
+
+Hm, down 16% that's not so bad.  Maybe everything was down let's compare.
+
+|**Portfolio**|**Initial**|**4/22**|**1/23**|**1/24**|**% change**|
+|:-|:-|:-|:-|:-|:-|
+|Reddit ETF|100,000|70,125|56,558|83,579|\-16%|
+|SPY|100,000|112,996|105,007|126,536|\+27%|
+|VTI|100,000|109,552|100,903|120,221|\+20%|
+
+I think these results speak for themselves.  Good job lads, butt slaps all around.  Oh also you owe the portfolio manager a thousand bucks.Comment by lizerdk: Damn good thing NVDA is in this list, that’s some heavy lifting
+Comment by klyphw: NIO, ICLN, JD......this is like seeing all the ghosts at the end of Return of The Jedi
+Comment by Mdizzle29: I got in a good conversation about someone who had an extremely concentrated position in PLUG. Told him what he was doing was extremely risky. Oh, he told me off good. 
+
+Wonder where that guy is now that its down 96%? Dumbfck
+Comment by Burning_Flags: And this is why I buy an index fund.  This dude went all in on Cathie Woods
+Comment by JRshoe1997: Crushing it guys! Only 3 stocks on that entire list has significant out performance and thats Apple, AMD, and Nvidia lol.
+Comment by zordonbyrd: This sub is often like a goldmine for contrarian indicators. People get all bulled up after monster runs and bearish after huge drawdowns.
+Comment by Mother-Analysis-4586: I wasn’t there for the original post but this does look like a 2021 Reddit portfolio. Not surprised it’s doing poorly. Hopefully you’re a rich person that did this as an experiment. If I was rich I’d probably do shit like this too.
+Comment by Zoomalude: I love this. Because people look back at stocks like NVDA and see the massive success and think "Dang, I could have gotten that!" Then you look at this great snapshot of similar stocks people thought might go crazy...
+
+Now every time I see someone here say they've held a successful stock since it was worth a fifth of it's current price, I'm going to imagine their portfolios full of a bunch of these other toxic stocks.
+Comment by reddorickt: u/gorays21 come on down for your annual glory!
+Comment by Atriev: I’m surprised it’s only down 16%. Genuinely wonder how some of these companies get discovered. What stock screener do these people use? 😂 If not for Reddit, I would never have discovered some of these companies existed.
+Comment by mchlsxjkbsn: That’s pretty cool. Do it again in 5 years👍🏻
+Comment by cwesttheperson: Damn I’m so glad I don’t listen to 99% of you guys
+Comment by Harucifer: Interesting to eye on those -70%+ losers as a good entry point
+Comment by Redtyde: Considering it started at the absolute worst time its really not that bad. If you added to these positions a normal amount in 2022 & 2023 almost certainly would be doing quite well. Also if it were managed, the absolute dogshit (JMIA, NIO, ARKG, PLUG) would have been trimmed earlier.
+
+I mean its not good but I expected worse.
+Comment by MattieShoes: Mmm, this makes me feel much better about myself.  I mean, I've done some really, really stupid things, but not a whole portfolio missing the S&P numbers by 43% stupid.
+Comment by Vince1820: i remember putting together spreadsheets on many of these companies and then saying "oh hell no".  I took a beating here fpr saying i was waiting for PLTR to hit $7-8.
+Comment by LegateLaurie: Clearly if you were dripping the Disney dividends back in the results would be totally different /s
+Comment by James_Vowles: ICLN what a load of crap, I remember bagholding that for so long and finally getting rid. Annoyingly I bought SQ at 55$ per share years and years ago and didn't sell. So when I finally sold last year it I barely made anything.
+Comment by laissezfaire: I remember seeing the speculation on these stocks back in 21 and wondering to myself where they would go.  Thanks for the effort of doing the math,  very cool to see.
+Comment by ZuLuuuuuu: Can we have a new 2024 version of this ETF?
+Comment by backroundagain: And this is just financial performance.
+
+Imagine what happens when you generally follow all reddit advice.
+Comment by joethemaker22: What if someone joined the market in Jan 2022. Or even Jan 2023. How different would the returns be on this same ETF.
+Comment by cian_100: Assume this is weighted by market cap, is there any rebalancing or it’s simply initial weight?
+Comment by None: Amazing that PLTR is up over 100% since November of 2022, yet you'd still be down if you bought in 2021
+Comment by None: ARKG, y’all getting scammed by that lady.
+Comment by None: ReCcEsSiOn!!!
+Comment by There_Is1: This matches 90% my portfolio ;))
+Comment by None: Is the Tesla stocksplit incorporated?
+Comment by soccerguys14: Didn’t Tesla do a split. Does this incorporate that?
+Comment by SaggeeDot: Didn’t Tesla and NVDA have a stock split during this time? If so, numbers need to be updated
+Comment by siposbalint0: This is pretty neat, but investing is not a 3 years long game, if this was 10-20 years, then maybe it would tell us something, but this basically comes down to don't take investing advice from strangers on the internet, which everyone with two braincells already realized.
+
+I don't expect the results to be any better long-term, but this still a bit cherry picked. You could have made an 'etf' of the five most commonly mentioned ticker here in 2022 and see how they did by the end of 2023 and have vastly different results with a completely different narrative. The conclusion still wouldn't be to take investing advice from the internet.
+Comment by caseyrobinson2: i think at some point you wre probably up big.
+Comment by None: [deleted]
+Comment by None: Does anybody know when the Reddit stock is actually being released?
+Comment by mikemikemikeandike: That’s what happens when you buy into FOMO and have no effing clue what you’re doing.
+Comment by Hariharan235: Conclusion: Redditors have no idea what they are talking about.
+Comment by fatsocalsd: This is really some excellent data. Thanks OP
+Comment by TarCress: Only 16%? Now do inflation adjusted.
+Comment by ModeratlyBigTuna: How’s the white girl index? Going
+Comment by Googgodno: Five stocks that made money and twenty that lost money. Hmmm...
+Comment by FollowAltruism: No Facebook or Microsoft, interesting
+Comment by None: I'm gonna break it for you:
+
+90% of the stock that gets "recommended" here, is stock people own and desperately want to go up to speculate, rarely to hold.
+
+Social media financial discussions are hugely infiltrated by people trying to influence others to buy what they hold.
+
+So what you really get in that ETF is stuff people held in 2021 and wanted to dump sooner or later.
+Comment by esp211: Proof positive that group think is not profitable
+Comment by Indep-guy: It's very hard to beat the SP500 over a decent span of time.  A lot of unnecessary time, effort and worry
+Comment by shrimpgangsta: highly regarded. claps
+Comment by TheCaliKid89: !remindme 1 month
+Comment by reddorickt: Just gotta buy a couple dozen speculative stocks, one of them is bound to hit!
+Comment by digitalfakir: AMD also hitting back now
+Comment by Patient284748: And if this was someone’s actual portfolio, they would be bragging about picking NVDA years ago and saying, ‘you just gotta pick one or two solid companies.’ That person would be so happy with their jackpot that they don’t even realize they are down overall because they had been making additional contributions over the years lol.
+Comment by water_bottle_goggles: PLUG is three bucks lmao
+Comment by There_Is1: Working the night shift at Wendy’s!
+Comment by None: This is actually why no one should get financial advises from anonymous reddit avatars
+Comment by None: Yup
+Comment by Chardlz: This is why I inverse any advice I've ever seen on WSB. That was basically my options "trading strategy" during covid. Made a killing on Tesla when I said "I don't know if I should hold onto Tesla or not" and someone immediately told me to sell so I doubled down and made a few hundred percent of free money.
+Comment by SkullRunner: It's almost like they are just a bunch of emotional retail investors and really have no idea what they are talking about.... oh... wait...
+Comment by reddorickt: Oh I certainly did not make any financial decisions based on this ETF lol.  I tracked it exclusively because I believed it would play out as a cautionary tale about taking advice from randoms on the internet.
+Comment by JRshoe1997: If there is one thing bear markets do a good job at its pushing people out who don’t know what they’re doing.
+Comment by airelfacil: ngl this would be a nice annual thing. Every year, we make an 20XX reddit ETF, while also maintaining links/progress to all prior ones
+Comment by reddorickt: Without NVDA it would be down 36% and without AMD either it would be down 42%.  2021 Reddit was at least still smart enough to throw semiconductors in the bag.
+Comment by FutureMilly24: Reddit and cnbc
+Comment by Mt_Koltz: Need to get redditors to generate a new list to ~~avoid~~ buy
+Comment by reddorickt: Yes, if there is anything to learn from this post, it's that you should put your money into the biggest losers from a list of stocks recommended by clueless people.  They are already down so much, how could they possibly not outpace the market at this point???
+Comment by Jeff__Skilling: Shouldn’t be hard to catch a couple dozen falling knives….
+Comment by Flashy-Priority-3946: Except the Chinese stocks.
+Comment by Fancy_Ad2056: Enphase and Disney are pretty much the only real companies on this list of losers. Not sure what the upside is on Disney, but Enphase could still be significant pending a better interest rate and regulatory/legislative environment.
+Comment by None: Man, this sub is champion of suggesting overpriced companies they don't understand the business of, and "PE don't matter".
+
+You could've had Costco, McDonalds and some other dumb value growth stock and you would've outperformed Reddit dumbasses, the same people buying Nvidia at 600$.
+Comment by reddorickt: If there's anything I expect a person who bought this ETF to do, it's correctly analyze which stocks to average down on and which stocks to cut bait on.  And I expect them to have their finger on the pulse of 24 companies such that they are able to time it correctly in narrow windows.
+Comment by reddorickt: Lol yeah I thought about that.  Very few of these companies offer a dividend while SPY and VTI do, so the results are even worse if you include that.
+Comment by reddorickt: Are you asking what the returns would be like if someone timed a perfect bottom?
+
+One of the points of this exercise is how bad social media collectives are at making bets and evaluations.  Social media is largely group think.  What gets upvotes is what is visible.  The stuff that gets upvotes and attention is what people see as the narrative in subreddits, downvoted and buried comments/posts do not really have any influence on the subreddit at large.
+
+So the reason that this particular group of stocks are here together is because of the momentum that they had at the time of the original post.  So 2022 or 2023 is irrelevant, because the list of stocks recommended by this subreddit would be completely different.  Nobody was telling anyone to buy PLUG last year, or NIO, etc.  A person buying this particular diversification of stocks in 2023 likely doesn't know what they are doing.
+Comment by reddorickt: This is simply weighted by the initial weight that was given in the OP.  I followed the rules of that post, which did not mention any rebalancing.
+Comment by reddorickt: yes
+Comment by WickedSensitiveCrew: Someone else tried to say that. If one did it in 2022 or 2023 results would be different and got downvoted into oblivion. It doesn't really fit the lol look at stocks still below where the bubble popped narrative.
+
+I don't get this sentiment going on in the thread. Someone may have started a position in lets say PLTR for example in 2022 or 2023 in the $8-10 range. It is $17 now. What does this price anchoring to 2021 have to do with anyone buying in 2024.
+Comment by reddorickt: No, you were down almost immediately.  Then it got a lot worse, then it got slightly better, and now you are here lagging the market by 50%.
+Comment by reddorickt: I backtracked the initial price to reflect what it would have been due to the split.  Shares #s are irrelevant here.  The only things that matter are the initial price, current price, and investment amount.  Google the stock price and look at what the chart shows you for Jan 2021.
+Comment by reddorickt: Reddit is planning to IPO in March
+Comment by ____whatever___: Release the stocks!
+Comment by RemindMeBot: I will be messaging you in 1 month on [**2024-03-28 21:45:06 UTC**](http://www.wolframalpha.com/input/?i=2024-03-28%2021:45:06%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/19d3dji/reddit_etf_progress_from_jan_2021_to_jan_2024/kslmc98/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F19d3dji%2Freddit_etf_progress_from_jan_2021_to_jan_2024%2Fkslmc98%2F%5D%0A%0ARemindMe%21%202024-03-28%2021%3A45%3A06%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%2019d3dji)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|
+|-|-|-|-|
+Comment by lizerdk: No capital gains taxes if you don’t make capital gains! 
+
+The IRS hates this one simple trick
+Comment by chaos_chimp: Yup ! NVDA & AAPL helping reduce the losses 😅 Thank you for compiling this OP !
+Comment by Ldawg74: Shhhhhh…just let him have his moment, just for now. He’s had so few all year. Tomorrow, he’ll look all the way down the list. 
+
+Then we can laugh.
+Comment by Javimoran: Yeah, I sold half of it almost at ATH just in case but I made the mistake of dollar average all the way down to losing a lot of money.
+Comment by boofybutthole: working the night shaft *behind* wendy's
+Comment by CommonerChaos: Or Wage Cuckin it at McDonald's.
+Comment by especiallyspecific: He's taking an order right next to me!
+Comment by ShadowLiberal: Agreed. I highly doubt there's many (if any) redditors who would have actually bought all of these individual stocks.
+
+That said, this portfolio is heavily weighted towards speculative stocks that aren't making much (if any) profits as of yet. So many of the stocks got hit pretty hard by all the rate hikes since it was made, much more so then the average company in the indexes. So of course it's going to be a big loser in a high interest rate environment, it's frankly surprising that it's ONLY down by 16%.
+
+NVDA, AMD, and AAPL are the only things carrying this portfolio. If this portfolio didn't have a bunch of money burning companies that depend on low interest rates then those stocks could have potentially carried the portfolio to out performance.
+Comment by None: [deleted]
+Comment by DingleTheDongle: reddit has always been 3 gpts in a ["trench coat"](https://i.chzbgr.com/full/9065319168/hD56F3837/text-how-the-internet-works-4chan-reddit-know-your-meme-facebook-etc-oc-sitcoms).
+Comment by Chornobyl_Explorer: Doesn't make it different if it's redditors trying to u load bags, famous Youtubers/Influencers, Discord mods or TikTokers or even "financial analysts".
+
+
+
+*No one is ever out to make you rich by stockpicking or cryptos*. If anyone is tolling you "buy" it is because they want the prove to pump so they can *sell*. Everyone wants to get rich, and the easiest/best way is to let others buy what you sell and vice versa.
+Comment by RackemFrackem: Great contribution
+Comment by usrnmz: Thank you, this is actually very enlightening haha!
+Comment by SkullRunner: "The reddit guide to lost harvesting 2024"
+Comment by None: "smart"
+
+It was random luck few years later there has been an ai hype boom.
+Comment by WickedSensitiveCrew: You do DD and then buy. You don't buy blindly. For myself I think SE looks interesting at an entry at current prices. You got its current price wrong of $26 in the OP. But still one would be buying at 2024 price it could be in a different place in 2024 than Jan 2021.
+
+I this thread is kind of a kick those stocks while they are down or laugh kind of thing but they are still companies something in that list down could end up being higher in 1 year.
+Comment by Harucifer: They could absolutely go down lower and/or bankrupt. But if they were considered "good buys" at those valuations in 2021, assuming they're more or less the same, why wouldn't you risk buying now that they're down 90%
+Comment by Redtyde: WE DOUBLING DOWN ON PLUG POWER BOYS
+Comment by caseyrobinson2: i think the point is with social media don't go long term. sell at the high. even right now today the market seems high with some stocks. trend stocks sell
+Comment by Sarkonix: lol to his point....you literally posted a perfectly timed top to buy...
+Comment by joethemaker22: I said nothing about timing a bottom. Not everyone was on this sub in 2021. Some may have joined in 2022 or 2023. And have no idea what was going on with this sub back then. 
+
+So I get it now this is basically stocks from a different era of this sub. I barely heard JMIA mentioned at all in 2023 on here.
+Comment by cian_100: Yeah fair enough, I’d be curious to see how this performs if rebalanced quarterly ! Will run it and see.
+Comment by ballimir37: Because the point of this post is what people are recommending.  What is the sub consensus?  What opinions are influencing people here?  No one here was telling anyone to buy PLUG or SE or whatever last year.  Not in any sort of consensus upvoted comment way.  Social media groups are largely influenced by momentum and past performance, and as an inevitable result of that, the collective misses the entry points and the narratives start after a stock has already run.  And you get results like this post.  This is certainly true when talking about speculative stocks.  It is the nature of a million+ subscriber base on a platform with comment and post voting.
+
+This post has very little to do with the specific companies involved, it’s a warning about taking advice from this sub or social media groups in general.  The overwhelming majority of savvy investors already know this of course, but many in the general population of Reddit do not, and a lot of people have been burned badly listening to social media influence.
+Comment by None: Thank you. I will be buying a shit load
+Comment by BookMobil3: That’s why I’m loading up on Kathie Wood’s new Tax Loss Harvesting etf $ARRGH
+Comment by None: clearly it's not a financial one.
+Comment by 4everaBau5: Unfortunately, yes.
+Comment by None: >No one is ever out to make you rich by stockpicking or cryptos
+
+This! Also we need to keep in mind, that no one became rich by doing what some other (already rich) is/was doing.
+Comment by None: Thanks
+Comment by reddorickt: I was joking by calling them smart but I wouldn't call it 100% luck.  I invested in NVDA several years ago largely because of how they were positioned for AI.
+Comment by reddorickt: Oh I guessed I typed the closing price in wrong on SE somehow, thanks.  The % change and final $ here did use the $36.40 closing price from Friday though.
+
+I'm not saying that any particular stock cannot go up, and I would sure hope that in a group of 20+ speculative stocks, at least one of them does.  But it is not an efficient use of time, and encourages worse results, to make your first filter for research be a stock that is down over 70% in 3 years.
+
+The person I replied to looked at this list, and their mouth started watering just because they saw -70% and worse.  That kind of warped thinking is what exacerbated the 2021 insanity, which is sort of ironic and fitting for this post I suppose.
+
+Bear in mind the starting price wasn't even the ATH, it was just the price at the time of the OP.
+Comment by reddorickt: >a list of stocks recommended by clueless people
+
+You are talking about buying a stock exclusively because it has decreased in value an extreme amount, using the logic that it is bound to bounce back because some randoms on the internet recommended it 3 years ago?
+
+What you are trying to get at here is 101 poor investing logic, that's how you lose money and get trapped averaging down on bad and unprofitable or debt laden companies.  Historically speaking, the stocks on this list that are down badly are less likely to outpace the market than the others.
+Comment by cian_100: This has to be one of the worst takes of all time, there is nothing to suggest that these stocks would bounce back, if anything it just shows how irrational valuations are slowly and steadily eroded by the general market.
+Comment by SteveSharpe: The reason why they are down is because the lofty expectations that created those valuations back then didn't happen.
+Comment by Nice-Swing-9277: Lol at acting like those people did any evaluation of those stocks in 2021 besides "line goes up and to the right"
+
+There may be a diamond hidden among the trash, i didn't really look at all the companies, just the end results.
+
+But your reasoning for buying into these companies is literally no better then the reason they entered this etf to begin with. 
+
+Pure speculation.
+Comment by drdr3ad: Whatever you were gonna invest, just give it to me please
+Comment by JRshoe1997: And we are definitely doing it for the memes and not cause we truly believe its a fantastic company right? /s
+Comment by reddorickt: Right?  Why don't people just always time the high?  Are they stupid?
+Comment by reddorickt: I posted the prices the day that the post was made.  I didn't choose or time anything, just like I'm not cherry picking update posts.  I just make the post whenever I think about it in January and use the previous day's close.
+
+OP said "here's the Reddit ETF, this is what the sub consensus says you should buy right now," everyone agreed with him, and then I tracked that.
+
+This is part of the lesson.  Social media collectives are clueless, and even moreso when it comes to timing.  The fact that everyone was clamoring to buy these stocks almost immediately before the cliff tells you everything you need to know.  You and the person I replied to are now saying "sure, but if instead of buying it back then, someone instead bought at the perfect bottom, they would be up big!"  That statement has no meaning though, you could say that about almost every single stock.
+
+There has been a tiny window of time in which this ETF has outpaced the market, but there has never been a time in which buying this ETF was a good idea.
+Comment by reddorickt: Different times would have had different groups of stocks that are "consensus buys" according to this sub's narrative at the time.  Someone wandering into the sub in 2022 would have seen a different collection of recommendations, and would need to track progress for whatever that was.
+
+The point of my post is to demonstrate that the group think of a 6M member sample of the general population is rarely insightful about something as variable and complex as the stock market.
+
+This is an extreme example at the absolute peak euphoria of any time in my investing life.  I suspect Reddit ETFs made 8 years ago, or now, would be a little bit more level-headed.  But if you effectively did it the same way, I'd bet 9 out of 10 of them underperform SPY over a several year timeline.
+Comment by None: [deleted]
+Comment by Legalize-Birds: Why did I 100% believe this was a real thing lol
+Comment by wuy3: Serious question. How does tax loss harvesting work if you are actually losing money in an ETF? Doesn't that make it net not worth it?
+Comment by None: [deleted]
+Comment by None: No, it's not a financial one. It's a general "social media advise": don't trust unknown strangers and don't do anything they suggest you to do.
+Comment by lizerdk: You’re welcome
+Comment by Sarkonix: Bud you don't need to preach to me lol I have never taken reddit advice on stocks or financial advice. Just pointing out that that was near a top...the guy simply asked what it would be if you bought at the bottom.
+Comment by None: Damn, I definitely would not think about shorting just because of the unknown factor. There are so many Reddit users, and the potential is sky high when it comes to profitability. It’s like the last frontier of social media.
+Comment by BookMobil3: Who wants to tell ‘em?
+Comment by None: lol!
+Comment by None: [deleted]
+Comment by Mrfish31: >There are so many Reddit users
+
+And?
+
+>the potential is sky high when it comes to profitability.
+
+Like *what*? If anything, Reddit users are gonna be much more difficult to suck money out of than users of other social media. 
+
+It's this website, its ad revenue, and whatever they can flog to the maybe half dozen people who actually buy Reddit gold and that shit. A *huge* proportion of Reddit is dedicated to porn, something that a public company will *hate* to have, and so on. 
+
+Reddit has no real way to be profitable. It's an anonymous social media site where the users are often notoriously *against* whatever profitability changes the owners try to do. Users basically shut down every main sub Reddit last year when they shut down third party apps, what happens when investors want to shut down beloved subreddits, or demand subscriptions, or do basically *anything*?
+Comment by None: Would you have shorted Amazon then ?
+Comment by nocapitalletter: reddit will have to get rid of the porn
+Comment by None: [deleted]
+Comment by None: They were unprofitable for years and years. How do you not know that lol. They were unprofitable for a long Stretch and thought the biggest bubble to date
+Comment by None: [deleted]
+Comment by nocapitalletter: comparing a company like amazon to a place like reddit, is laughable
+Title : Thoughts on Solar Stocks?
+Solar seems to be down quite a bit from there 2021 ATH at this point, and I've been watching particular companies within the sector such a ENPH, and was wondering what everyones thoughts are on Solar as a whole and why it's so far down from its 2021 ATH. It's clear to see that its a volatile sector as a whole, but I'm curious on peoples thoughts and if they're bullish on any Solar stocks in particular,  if so why? Love to hear any thoughts on the broader sector as well
+
+&#x200B;Comment by AutoModerator: Welcome to r/stocks!
+
+For beginner advice, brokerage info, book recommendations, even advanced topics and more, please read our [Wiki here.](https://www.reddit.com/r/stocks/wiki/index)
+
+If you're wondering **why a stock moved** a certain way, check out [Finviz](https://finviz.com/quote.ashx?t=spy) which aggregates the most news for almost every stock, but also see [Reuters](https://www.reuters.com/), and even [Yahoo Finance](https://finance.yahoo.com/).
+
+Please direct all simple questions towards the stickied Daily Discussion and Quarterly Rate My Portfolio threads (sort by Hot, they're at the top).
+
+Also include *some* [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) to this post or it may be removed if it's low effort.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*
+Comment by Collisionman_14: Interest rates are hurting solar stocks big time. Most of them have cut their guidance, however as rates get cut it could be a good turnaround play 🤷‍♂️ 
+
+I personally own a small position in ENPH. They’re getting wrecked with the rest of the sector, but they are doing 1 billion in share buybacks. You want the company to buy back cheaper shares. 
+
+ I think they deliver the best quality product and I think their growth prospects are good as they bolster their presence in Europe.
+Comment by Smipims: Short term turbulence. Long term, it’s impossible to not see renewables as a significant generator of our energy. I’m investing for 10-20 years, not 1-2
+Comment by millerlit: Cost are up due to high interest rates for the consumer has lead to sales dropping off.  ENPH guidance was lower also.  Translation stock is going to shit the bed for awhile.  Maybe when rates come down they will do better.
+Comment by Didntlikedefaultname: I have significant Enph positions and holdings in tan and icln. I strongly believe that renewable energy will be a continually growing sector. But it is far, far from a straight line up. The industry is subject to rate pressures, legislation and general economic factors like availability of materials and purchasing power of the public. So for me I see it as a long hall and a game of patience but my personal conviction is high
+Comment by JoePikesbro: First Solar is doing well overall. Bought  at $85 in 2020 and it’s doubled since then. They’re building a $700m facility in India now and I think their future looks pretty good
+Comment by Invest0rnoob1: I have some TAN leaps, hoping for a turn around.
+Comment by jazerac: Very volatile. A great way to make some short term money. Long term? Who knows who will prevail. A lot of these companies come and go.
+Comment by HotSarcasm: I’d jump into power storage like battery banks before solar panels.  That seems to be what the next group of homeowners and some businesses will invest in.  Some buying them just to “trickle” charge at cheap power times and then run off them during peak times.
+Comment by apeawake: Fslr is the most profitable and holding up well
+Comment by Euthyphraud: I'm still hesitant about jumping (back) in after CSIQ and FSLR beat me down one after the other. 
+
+I believe there is more room for them to fall before bottoming out. I do plan to reopen a small position in FSLR when I feel comfortable that an upward trend is forming.
+
+These stocks have become truly undervalued and will bounce back - cyclicality is simply against them at the moment.
+Comment by arbyman85: Enph is a great choice. Most people going solar are adding 3-5 batteries and enphase is right there with powerwall as a favorite.
+
+FSLR is a lot of people’s favorite but a massive head fake. The end of net metering and rate increases makes FSLR obsolete. A big advantage to it was utility scale solar, but utility companies are cancelling projects and suspending deals after finding out there is no resistance to net metering ending. The bigger plus size is with all the batteries being added to the grid utilities essentially have an unlimited supply of energy through virtual power plants. Furthermore China started producing massive film type solar panels killing that market for them.
+
+SEDG is garbage and will require big equity raises to survive. In a best case scenario they were looking at 2025 to become profitable again, but that best case scenario quickly deteriorated. They are at about 5-10% US market share right now and keep slipping further. They were supposed to be big in Europe, but solar installers were successful in lobbying to keep out solar tariffs and 90% of installs are cheap Chinese garbage. It destroyed their grid since there are all types of frequencies being input and spikes and dips randomly out of units so EU essentially cut off most peoples ability to get solar installed until 2026 at the earliest when they expect to have a better plan to upgrade infrastructure to clean up the power. Realistically SEDG never stood a chance relying on a socialist set of countries to survive where value is universally preferred over quality. I think blackrock found an interest in them at very cheap prices because they have a history of organizing mergers and buyouts as companies deteriorate.
+Comment by MissDiem: Kept adding when it dropped to $200 and at each level below.  Whether I want to hold or not is now overruled by tax planning considerations.  
+
+ENPH isn't "solar panels" though as most assume.  They make the systems and parts for alternative energy installations, primarily solar.
+
+They're profitable, and until 6 months ago, growing nicely.  
+
+They and others in the space were hit by high borrowing costs, so now they're basically just seen as in inverse play on rates.  
+
+I don't mind holding things and waiting when there's a misguided negative perception.  
+
+The bad news is that negative perception turned into negative reality, as Enphase joined the cheapo panel makers in having very significant drops in sales and orders.  That's real, unfortunately.  
+
+I still have faith long term in the absolute fact that getting energy from free sunlight is a no brainer, and the other fact that utilities will only be jacking up the price of electricity for the rest of our lives.  This makes solar and related companies long term viable, and if one is to own these, why not best of breed players like ENPH?
+
+The problem is that for the foreseeable future, its value will be controlled by interest rates and hard sales numbers.  Even if the sales crash phase is ending (and who knows if it is) it will then need to re-prove itself over several quarters of progressive recovery.
+Comment by floridaaviation: I am going to speak on the fact that I was going to build and own a solar farm. It’s not as profitable as people think. My farm would have cost around 5 to 10 million dollars and would have been in Arkansas. The power companies convinced me not to do it as they said it’s basically a race to the bottom and some of them wished they hadn’t done it.
+Comment by UltraBullJack: ENPH & ARRY are my favorite. ARRY is more for industrial projects
+Comment by soleobjective: FSLR
+Comment by Netskyz: I want solar socks
+Comment by jesshelenp: Don’t do it - someone in Solar. 
+
+If you’re going to do it, seek out hanwha. They are becoming the largest producers of panels under qcells and own EnFin, a large and up and coming finance company within solar.
+Comment by TomOnDuty: It’s mainly due to the higher interest rates that they are down
+Comment by Error__Loading: I used to invest in a Solar ETF: I sold many years ago due to the realization it is not a great long term investment due to reliance on subsidies and the political cycle.  I do invest in Tesla, their energy business is drastically overlooked and undervalued. Lots of room for growth on that front. 
+
+I have recently invested in a nuclear ETF ($URA). I see much more of a future for that.
+Comment by RetroSushiLord: People are watching carefully what they put in their baskets at the shop, the last thing on their mind is shilling out a good few K on something that'll break even in 8 years.
+IMO a good long term opportunity. Considering a lot of EU countries considering ban on petrol/diesel vehicles by 2030, it might be an incentive to get solar eventually. Just my ¢2
+Got $MAXN at $4.50, not planning to check on it for the next few years.
+Comment by cscrignaro: They might see a bump if rates go down, but for now they'll continue downwards.
+Comment by Outrageous_Appeal_89: Solar stock has sold off substantially in the past few weeks as well as  the past quarter even though inflation reduction act and rate cuts should be a catalyst for moves up.
+Comment by Accomplished-Cap4954: JinkoSolar Holding (JKS) vs sunrun vs SPWR. Which one is the best solar stocks?
+Comment by Accomplished-Cap4954: Which stock is better JKS vs FSLR?
+Comment by GlassCurve2498: First solar is booming now!
+Comment by Jagerbeast703: Are sales down or up? Profit margins better or worse?
+Comment by DesolateShinigami: Installation costs are extremely low. It also doesn’t take years to start saving money on a lot of houses. The high interest rate is a concern, but because the profit margin was so high, cost of panels are so low and the cost of coal/gas electricity going up ridiculously high with inflation and no decrease after those price increases, there is not too much concern with profitability or reliability we will have on solar energy. 
+
+Politics have also shifted greatly onto the side of solar federally, no matter who is President.
+Comment by Brave_Sir_Rennie: Presumably the trend towards electrification is established. But where would you invest?
+
+Here in the USA, entrenched interests benefiting from the status quo are purchasing politicians to put up barriers to competition to fossil fuels. Imagine if domestic rooftop solar had been mandated on all new build McMansions two decades ago (when the technology was developed enough to be technically feasible) by now we‘d have fridge/freezers and home lighting working on DC not drawing in the grid, ditto domestic water and who knows what other innovations. Alas, we don’t and we won’t.
+
+&#x200B;
+
+With panels getting cheaper and cheaper, it’s a race to the bottom, so can’t invest in panel makers?  
+
+
+Perhaps invest in grid-scale electricity generators? But, again, political headwinds mean no federal support for long distance transmission lines a la HVDC. So can’t put a large utility-sized array on cheap land if one can’t ship the electricity to cities?  
+
+
+Invest in companies that make the machines that the panel makers use?  
+
+
+Dunno.
+Comment by GlitteringDisaster78: Buy gas generators stock. See Alberta today as to why
+Comment by ThefalloftheUSA: We are living in a society where the majority of people can barely afford food and general costs of living. Wealth inequality is completely out of control. The people who own houses aren’t going to spend on solar panels for their home, the people who rent aren’t buying solar, and the 2% who hoarded all the money in the world are so fucking wealthy that they could care less about what happens to the earth as long as they get theirs before they die. I believe solar power is a very important foundation for clean energy. I’m all for it. But unfortunately in the economic situation we are in it is just not going to be a priority of homeowners and small business owners. In commercial application it may have more success if it can boost profits…because we all know that all anyone cares about anymore is profits at all costs. In short, solar just doesn’t affect profit margins enough and we still have a whole political party that believes climate change is a hoax. We’re fucked.
+Comment by purplebrown_updown: I think it will continue to stay down. Right now, the incentives and prices are way too high for most people. And oil and gas is doing everything to maintain their strange hold.
+Comment by jemicarus: Widespread solar adoption depends on 1) battery tech to more or less follow Moore's law and exponentially improve at a scalable level, and 2) a massive overhaul of national and regional electric grids, and 3) all the mineral resources 1 and 2 require plus the massive mineral inputs of building out huge solar arrays and replacing the panels after their 15-yr lifespans (or after they get smashed by hail, etc.). Solar panels require the usual rare earths and silver, etc., but also large amounts of metallurgical coal for smelting polysilicon. Also, we should consider one other factor: 4) huge amounts of land, like many large US states' worth for the US, on which utility scale solar arrays would be cemented into the ground, making the land somewhat difficult to use later, for example, if/when fusion renders solar pointless (as some would argue that fission already has). 
+
+For these reasons I'm not all that bullish on solar. There are certainly good use cases, and probably it will increase as a percentage of global power gen, but factors 1-4 above are all very tough asks and also involve major dependence on China for every stage of the solar supply chain. All that said, one probably wouldn't lose too much money on ENPH now.
+Comment by notreallydeep: >why it's so far down from its 2021 ATH
+
+People started consuming their stimulus checks. Also interest rates, of course.
+Comment by InternetSlave: Wouldn't touch with a 10 foot pole. There's just too many better options
+Comment by adappergentlefolk: any green stock will take you for a ride and then fold taking all your money with it
+Comment by trader_dennis: u/werewere223
+
+Don't underestimate what California state government has done to the solar energy industry.  In the "interest" of DEI, new installations of solar do not qualify for NEM and there is little incentive for homeowners to install solar now.  Builders are required on new homes but I doubt that will move the needle that much.  Electric utilities do not want new solar, there is a glut of electricity coming back into the grid with the utilities having to purchase out of state electricity in late after noon and over night.  Solar is not going back to 2021 ATH anytime soon, it is probably priced fairly and will get a small bump after the 7th rate cut from the fed.
+Comment by mickeyprime1: $SPWR is one which is very volatile. Right now down because they issued going concern because of their debts. However they have untill 19th to proove to banks that they are ok with their debt. 
+
+Seems like one of the oldest solar installer. Have backing of total energies and global infra partners. Companies with a lot of cash and might. They own more than 50% of SPWR already. I am thinking worth getting some calls as they prob just get bought out and run as a subsidiary or the owners just inject some cash to own some more of it. Hard to imagine they just go under. I think they are prob the ones which will prob go up just because of this in coming days. if they go down,  not too bad of a loss as they are already too low.
+Comment by BCECVE: I am quite bullish but there are issues.   For one, they don't work at night and it is not easy to turn on a gas generator plant just for 10 hours- hard on equipment- thus more expensive batteries are needed.  I believe the cost to generate electricity is now 3-6 cents per kilo watt for solar so that is excellent as oil and gas are about 13-15 cents per kilowatt. One thing that I see is home owners are up to their necks in debt and to put a solar on a house is expensive so don't count out that group when rates are high. But solar farms look really interesting and Canadian Solar is a leader in this area. There is lots of scrub land in the western US so that is ideal.  With the huge events in the last two years climate change is really accelerating IMO.  As an example ocean water levels are up 8-9 inches due to ice melt.  It we keep the same acceleration I think water levels are a huge problem - for instance if all Antarctic  and Greenland melts the water level will be up 190-230 feet. You say impossible- don't say never. I think the next ten years will be huge.  I am also eyeballing the polysilicon makers in China- DQ is trading at 22 and has $40 cash on the books and there is a glut of the stuff so you would think this is good time to pick it off.  But do you trust Chinese companies or their numbers.    Just my thoughts and I am not a scientist or engineer- a financial guy.
+Comment by ilovezippers: ENPH has been a turd for me so far
+Comment by ZeApelido: Wait to buy ENPH after market correction once people realize rate cuts won’t be as aggressive as they are currently expecting.
+Comment by None: If rates stay higher ENPH is gonna tank
+Comment by entechad: Elections are coming. Possible instability in green sector.
+Comment by Doggies1980: Not sure, sometimes I look at market movers, gainers, losers and add them to my watch list. There's one I added over the wknds for a watch list. It shows a spike and at one point was at $242, but it's spiked up as of now and only at $3.81. AUVI. So sometimes I like to test some out, some work in the long run and others don't. Gotta wait til Tues to see what starts to happen again. There are companies that aren't as well known or not the huge companies everyone buys so you can buy dirt cheap and some might surprise you. Even though AAOI went down this wknd the majority of the time it's up, I only paid $6 a few yrs back so unless it goes drastically low I'll be up. So some like that I monitor after holidays since every holiday my good ones go down, but spike up fast once markets back open. There's some gas and oil stocks that do well, these small companies at one point can eventually be worth a lot too. I personally test out really low ones, but also look at their yearly chart. Better to buy very cheap so if they end up going down too much then just sell them or keep if you think they'll still perform well
+Comment by Pandarx71: Why not buy a company like AMPS. It's more of a solar power company (think normal power company) then a builder of the actual panels. They put the systems up on buildings or other places and charge fees for the power usage.
+Comment by ExistentialTVShow: No interest. 
+
+Any outsized profits will be competed away. There’s no strong moat. Treat like value stocks or only buy if they are cheap but growing at reasonable/healthy levels.
+
+Renewables sector is resetting atm. Bidding got ahead of itself. How? You bid what you can deliver in 5 years when the project is finished. Costs have gotten high (borrow money) and competition too fierce. Project bidders have also forecasted technology improvements too aggressively, you compete by making a future guess that you can generate more energy compared to today’s technology. There’s pull back on project budgeting and forecasting - in short, discount rates went up, energy prices down, returns on capital down. Investors said no thanks, money moved to the next rodeo. Hello Chat.
+
+Really good example is Orsted and Siemens Gamesa Wind Energy.
+Comment by garlicroastedpotato: The margins on solar just look terrible to me.... and I just can't see it getting that much better.
+
+Right now solar operates very optimally.  It gets its cost effective energy in the day time and then fossil fuels take over in the night.  But once fossil fuels are gone solar will only function with a lot of battery... which is going to suck up a lot of the revenue from power generation.
+
+There's also a lot of talk of unions getting involved in solar... which will increase labor costs heavily.
+
+I just don't see solar as worthwhile to me long term or short term.
+Comment by Tacocats_wrath: I don't like solar stocks individually. If I were to bet on the sector, I would buy vistra energy or Brookfield renewable. 
+
+Both of these entities have deep pockets, are well diversified and they purchase distressed assets and turn them around. 
+
+I am not invested in either of these, although, I suppose I do have a bit of Brookfield renewable exposer through the Brookfield corp flag ship.
+Comment by arbyman85: My second comment. Solar has little upside near term. EV charging just got hammered again on zero day options 2 days after fed released $700 million of $7.5 billion promised for EV charging. DCFC is at 0.17, down from 10.00 and could be a 10 bagger on squeeze since they make all the EV chargers are stand most to benefit. EVGO will see the biggest hunk of change among charging companies as most states pre-determined to set up large scale charging projects along interstates at pilot flying j who has exclusive deal with EVGO. Expect most of that $7.5b released before elections so it can’t be clawed back. A ton of stocks are now coming at low valuations that’s going to dilute interest in solar overall. Solars best chance for a comeback was 2-5 weeks ago when stocks were more overvalued. The massive zero day options hit to EV charging is looking like a set up for the next big institution/fund runup.
+Comment by None: The real issue with solar is battery. Lithium is not environmentally friendly when mined. The truth is there’s not enough lithium on the planet to do what the Green Party wants to do. I’d put my money in lithium and not solar because lithium is used in more things like cell phones, laptops ect…  Mazda working on a new engine look into that
+Comment by zordonbyrd: I bought some solar last year during a rally as a catch-up trade and I was burned hard. Looking back, I wouldn’t have bought them because doing so goes against my overall strategy, that being said they are so down and out that I think it’d be a waste to sell them here when sentiment is terrible. Also, it should be pointed out that insiders are buying now.
+Comment by OkCelebration6408: Solar overall is in deep trouble. Interest rates is just one of the issue and this is a sector that heavily depends on gov installation subsidies to survive. It is slowly going away as well. Could easily be a 5+ year no return for overall solar stocks. Might very well be much longer than that. Honestly I’m shocked that there still aren’t too many big layoffs in this renewable sector. Tech is laying off left and right despite stock price recovery.
+Comment by Watsonsboss77: NEM 3.0 in California is a good example of how much political power utility companies have against solar companies on a residential scale.   California used to be one of the biggest markets in North America for solar.  But they have made it too expensive by convincing the state to make battery storage mandatory.  That effectively doubles what used to be a 5-7 year payback period.  If you want to go into solar,  make it a short term play, and find out which solar company  is supplying the upcoming 1.4 gigawatt project in the SW United States.
+Comment by jb_anderson87: Most people are spot on above. Its just the interest rate environment thats affecting these companies. These are companies in their early growth syages and need the capital now for building the infrastructure for the future. Things will change once rates come down. I myself hold NextEra that has struggled recently. But am holding it for long and adding small quantities. Things will get better.
+Comment by bockstock: Tulip mania
+Comment by Goldenhippo1: The thing people rarely mention about FSLR is the moat they have as the only major American solar panel producer.
+
+This is why their orders are booked solid until 2026 at max manufacturing, because developers / owners need FSLR to get IRA tax credits on local content requirement. They are using FSLR modules across their whole portfolios. 
+
+People are lumping FSLR in with ENPH / SEDG residential headwinds but FSLR is going to absolutely crush earnings over the next 3 years with Inflation Reduction Act tax credits. 
+
+If a Republican President gets elected and there’s a shift on IRA, it likely will come with America First / foreign import tariffs, which only adds to FSLRs dominance on US solar projects.
+Comment by BookMobil3: Cleanest shirt in a dirty hamper… slow, slow DCA accumulation for me. Can use uranium etf dividends to fund that, rather than drip more into that play while its up
+Comment by werewere223: Appreciate the write up, I like your metaphor as well. You think ENPH is the best option in the sector?
+Comment by bendover912: Solar as a concept is great, but as an investment it get's killed by predatory installers and high interest rates.
+Comment by None: The only contrary to your thought is that everyone in this industry is racing to reduce the cost and make it as cheap to produce as possible. It’s going to be a very low margin utility play, I’m envisioning. Please correct me.
+Comment by thehumbleguy: 💯 What companies or etfs you holding my man?
+Comment by Outrageous_Appeal_89: The mag 7 using solar to power their businesses. Seems like Solar has been overlooked in the past 6 months and sector is trading at a discount
+Comment by Jeff__Skilling: > Long term, it’s impossible to not see renewables as a significant generator of our energy. I’m investing for 10-20 years, not 1-2
+
+.....then why dump all your chickens into the solar basket?
+
+If the assumption is that renewables will eventually phase out coal (currently in process) and natural gas (lol), why go for solar over, say, hydrogen? 
+
+Especially with all the financial incentives the federal government is making available available in terms of [direct funding](https://imgur.com/a/mh8xsKs) and [available tax credits / tax equity funding vehicles](https://imgur.com/a/kJGadCi) via IRA 2022?
+
+Or just generally looking at the [current map of H2 production facilities and corresponding storage facilities operating / under construction](https://imgur.com/a/oc6f9E7)? 
+
+Just looking at the numbers, I'm scratching my head to understand why solar makes sense in the 10 - 20 year timeframe...?
+Comment by Domethegoon: I think he said to buy ENPH stock
+Comment by ben-bineabble: Totally agreed. Renewable energy can and is worth invested for 10-20 years. For further longer remote period, I think solar will still play a very very important role at energy generation because I don't look bull on hydrogen because (1) it's the way to store energy but not generate energy and (2) it requires a great global consensus on establishment of the supply chain and working allocation from technology perspective which would cost very long time to build but now it is not something everyone is doing or planning. Also i believe 20 years later there will be some key breakthrough on nuclear energy.
+
+So when we come back to short term, market sometimes temporary looks bear because of fierce competition among solar companies which led to very high device inventory built in 2023, so there is great pressure on short-term financial performance outlook on these companies. Another adverse factor is the macro environment challenge, mentioned by many guys here.
+Comment by None: Panel costs are *way, way* down.
+Comment by ashdrewness: Bingo. Few people pay cash for solar.
+Comment by 2ant1man5: Had icln since 9$ on stash.
+Comment by Fit_Opinion2465: Totally irrelevant but it’s long “haul” right?
+Comment by Sir_Clicks_a_Lot: I got in on FSLR around the same time. I’m often surprised to see so much chatter about ENPH and relatively little about FSLR.
+Comment by Ok-Kaleidoscope-4808: I think this is the way in solar, just get tan as things buff out and can research more then add to a single position.
+Comment by NationalOwl9561: Well that makes more of a case to buy the ETF, TAN for more diverse exposure.
+Comment by Whitehead8: Enphase does also provide batteries for homeowners. I do not own the stock but things could work out for them in the next years.
+Comment by Separate-Analysis194: Don’t you need to generate the power (eg through solar) before the need for storage?
+Comment by Garethx1: How many states do peak/off peak rates? I live in the Northeast and it isnt done here anywhere that Ive seen, but I think CA and TX do it which is a huge chunk of the population, but Im wondering where else.
+Comment by None: Stuff like FLNC, STEM, and NEE?
+Comment by werewere223: Appreciate the write up, I was seeing a bit of FSLR but the only one that ever really peaked my interest was ENPH. Do you not think ENPH is gonna be rendered obsolete by net metering and rate increases?
+Comment by Outrageous_Appeal_89: Stock market being forward looking and rate cuts coming as well inflation relief act being a catalyst, Solar seems like a sector that has been hard hit and has tremendous values at these levels
+Comment by chapterthrive: lol. You trust direct competition to give you solid advice?
+Comment by co-oper8: Curious. How was it a race to the bottom
+Comment by cosmomax: FSLR, ARRY, SHLS, NXT are quality picks. The purely residential solar companies are getting killed but seem to be the only ones most people know about.
+Comment by Supervaez: Hey. Hanwha has not moved a lot in the past many years and only slightly downwards. What is needed for it to start going up?
+Comment by dedgecko: Sounds like a commodity… good luck with that.
+Comment by hacepeda: Why not?
+Comment by NationalOwl9561: And busted fast lol
+Comment by Collisionman_14: Depends on the company, ENPH chose to keep prices high to maintain margins but have less sales, where most companies reduce prices, take a hit on margins but sell more systems. 
+
+I would say the best move is to take a hit on margins to get your product out the door and get the consumer engrained into your eco system. As soon as you have that customer you most likely will have them in your eco system for 20+ years.
+Comment by Didntlikedefaultname: Counter point. In NJ it was 50 degrees yesterday, unseasonably warm for January. And this is a growing trend, each year is on average the warmest year we have ever had
+Comment by chapterthrive: Yeuh. They’re just straight gouging that province
+Comment by AssinineAssassin: Username checking out for sure.
+Comment by Didntlikedefaultname: The simple fact is if solar is shown to be more cost effective then it will be mass adopted. There is no required morality about it, and I think we are moving further in that directly
+Comment by mywhataniceham: agree with a lot of that, but, solar works and is largely untapped as of today. arizona texas utah nevada california should have massive solar energy farms, and they will - the technology works, is actually renewable and most importantly does pay off. i expect we will see a boom in this market as temps continue to climb globally.
+Comment by Didntlikedefaultname: I don’t think many people were using their stimulus checks to buy solar panels
+Comment by Inconceivable76: By, in the interest of DEI, do you mean in the interest of no longer having low incomer people subsidize the upper middle to upper class people getting solar panels?
+Comment by Long_Obligation1448: In other words, time the market.
+Comment by werewere223: They seem very reasonably priced as well
+Comment by werewere223: I feel like the headwinds are for the Solar sector as a whole recently. However this is an interesting take, are you not as big of a fan as ENPH, seemed to be the favorite on this thread as well.
+Comment by victorbardyn: I hope he thinks that. Normal people invest in the ‘best option’ but 🤷maybe he is a psychopath
+Comment by Collisionman_14: I do believe it’s the best option in the sector. Micro invertors are much better than string inverters that their competitors use. With string invertors if one panel goes down the whole system goes down. If a micro inverter goes down, only 1 panel in your system is offline. The rest of the system is still operating. 
+
+The important thing to remember is enphase isn’t selling systems directly to customers. They’re selling them to installers. Having a strong relationship with your installers is key, and from what I’ve heard installers love enphase systems as oppose to solar edge and the other Chinese options that are becoming available. If installers hate your product they will install a competitors product instead.
+Comment by PurpleZebraCabra: And lame PUC policy supporting energy distribution/supply companies. 
+Comment by tuckastheruckas: are there any companies that operate in regards to renewable storage? like batteries?
+Comment by NavyDean: We are hitting the lowest solar costs in 2024, you're right there.
+
+
+But prices are only going to go up from here, every year forth. They've kind of hit the bottom already.
+Comment by jacque_throttlebody: cnrg
+Comment by SeveredBanana: ??
+
+Hydrogen is a form of energy storage not energy generation. You need to generate power through something like solar or other renewables to produce hydrogen.
+Comment by Malamonga1: Because the gov worldwide have invested too much into solar research to improve it's tech. I kinda blame Obama for it because in the beginning solar didn't seem like a very efficient option, but it's the only option an average American can implement I guess, so you also have the off the grid factors some Americans seem to fuss about
+Comment by SingleManVibes76: Possibly, however installation costs are probably high and from a home users perspective it would be a major spend which could take several years to pay off and therefore the high interest rates makes the whole situation less affordable.  Solar is a long play in my opinion.
+Comment by PurpleZebraCabra: So is net metering (in Californua at least).  Batteries are needed now and those still aren't cheap. 
+Comment by chris_ut: Panel costs have gone down every year for decades but the economics on it still suck.
+Comment by jamaes1: Had icln since $30 lmao
+Comment by Didntlikedefaultname: Yes it is and I’m sure you know that already
+Comment by JoePikesbro: I was wondering the same thing
+Comment by MeasurementFlat4454: No you can charge from the grid, I’m a solar professional. We do it all  the time. Houses with  just Tesla power walls.
+Comment by HotSarcasm: You can be grid connected with battery systems without solar panels.  Batteries charge at night from power company at reduced rates and then you operate home/business from battery bank.  
+
+Source of power can be interchangeable on some systems, if there is a “brain” controller of some kind.  These are slowly growing to be a little more popular, but that tech is probably years away from wider adoption.
+
+Residential battery banks can be stacked and some can run a house for multiple weeks without need for any grid or external power.  Ideally they have some direct connected solar to top off, but it is not required. 
+
+Most people investing in battery setups have some level of disposable income and are adding systems to existing solar installs, not suddenly adding solar and leading to solar growth.  Some are simply buying them to bank cheap power for EV charging.
+
+The weird thing with solar at residential is most are connected to grid, basically providing the power company with additional supply, which then offsets the homeowners bill over time.  If there’s a power outage, the homeowner does not suddenly have power because of solar.  Those panels are not “switched” to provide local power.  Nearly everyone with a solar lease or lease to purchase has this setup.  In my area, that is 75%+ of the solar customers.  Very few buy their own panels.
+
+Off grid situations are very different.  Not sure OP investing in solar with off grid in mind is a real money maker.
+Comment by HotSarcasm: The major power companies in NJ have peak/off-peak, but most plans just show the blended rate on bills.  PSEG and First Energy generally define as 9am-9pm weekdays for peak.
+Comment by arbyman85: Nope. You can see FSLR got the start of hammer I am expecting today, down around 7%, pulled ENPH down. Right now ENPH is struggling to keep up on battery orders and installers are pulling huge margins. $15000 / battery install on $5,400 battery. They should be raising prices shortly on demand and it’ll cut into installers massive margins, but not Enphase. There was a huge shift in demand on batteries that ENPH will adjust for. The increased margins and level of sales more than makes up for a small loss of sales on systems overall with net metering ending. They also are a nationwide provider of batteries to electric companies providing batteries to customers for very low prices that are installing them on homes with and without solar under virtual power plant programs.
+Comment by floridaaviation: They were cool with me doing it but said they are not building anymore because they had already built several and Were. Losing money due to counties building solar farms behind the schools police departments fire departments Etc which meant to pay rate was like .25 were it had been like 2.00
+Comment by dedgecko: The more people / entities supplying / generating electricity, which is a commodity will lead to cheaper price for that electricity. Basic supply and demand.
+
+So if someone is hoping to recover their initial investment, they possibly won’t as more enter into the market of electricity generation.
+
+Needs to be a philanthropic venture or non-profit focused.
+Comment by None: Right? I don't understand why no one does their research in this industry. There are profitable companies like these with fantastic growth prospects. Instead people judge the entire industry by a handful of residential installers that are bleeding money.
+Comment by jesshelenp: In my opinion, they’re currently down as they’re using a lot of their resources to buy capital assets, which will be a long term positive play. They’ve gotten a lot of positive attention and feedback from the American government for their solar panel production, and their bottom line is only increasing with finance. It will continue to trend down for the next 18 months as they scale, but after that, I believe they will have a separated but very vertical campaign in the solar sphere. I don’t think buying now is a bad idea either, I think they’ll drop lower but not to an extent that will matter to buy later.
+Comment by WinPrize9339: 50 degree heat isn’t good for solar panels though, they work best at around 25 degrees, they would be around 30/40% less effective at 50
+Comment by Inconceivable76: And what’s the temp going to be at at 3pm today?
+Comment by Jeff__Skilling: >Counter point. In NJ it was 50 degrees yesterday, unseasonably warm for January
+
+Counter counter point: It's currently 40 degrees in Houston right now
+Comment by ThefalloftheUSA: Well I’m not seeing much in this fucked up country getting better. We have the media and the financial media telling us that the economy is just great! Everyone I know, even well off “upper middle class” people all agree that inflation is out of control. Food prices are insane. Prices for pretty much everything is insane. I don’t see how solar power is going to get anywhere when people are just trying to save money and pay their bills. I’m not a pessimist, I’m just a realist. We need to stop sugar coating shit and do something.
+Comment by ThefalloftheUSA: I agree. If solar adds to a corporation’s profitability it will be adopted. But for the average homeowner and small business owner it is just not a priority right now and I don’t see that changing anytime soon in the climate we are in.
+Comment by WinPrize9339: Actually, temperatures increasing isn’t really a good thing for solar panels, they operate best at ~25 degrees. There isn’t too much of a drop off for higher temps but the difference between sitting at 25 degrees and 35 is around 10-15%. It is a good thing for colder countries but bad for warmer countries :)
+Comment by trader_dennis: From the perspective of industry valuation which is the original question of OP, then yes it matters.  California is the largest US market, DEI effects permanently the valuations set, California sets the benchmark for other left leaning states to implement similar regulations.  I am not here to debate the merits of the legislation, just the headwinds that will effect investing in solar going forward.
+Comment by ZeApelido: Absolutely, I keep a list of potential longs and shorts that I only enter if at great price points to reduce risk.
+
+I bought ENPH when it went down to $80, then sold at $115 on market reaction to FOMC.
+Comment by Pandarx71: It is and since its price like a service provider power company it has legs to grow overtime.
+Comment by Goldenhippo1: I like ENPH given pending interest rate cuts, but I think there’s more upside and less risk with utility scale solar names like FSLR and NXT . Utility scale solar projects are booming, they’re not getting cancelled, they’re getting built at record rates fueled by IRA $ with a 6-year runway.
+Comment by None: Because?
+Comment by Sexyvette07: This, I see them going hand in hand. Using solar to make the hydrogen.
+Comment by soulstonedomg: Another concern I've read is increased home insurance premiums from adding panels. Also, many states are ending incentives as well as siding with utility companies over issues concerning connected back to the grid. There are many things working against residential solar right now.
+Comment by None: Yeah.  Residential sales in CA are down 80%.  [I posted that elsewhere earlier today.](https://www.reddit.com/r/SilverDegenClub/s/6M7g9UjPsn)
+Comment by None: No, they don't.  I'm not even talking about past decades.  I'm talking about the last 6 months in PERC.  M10 and G12 are both about a nickel a watt now.  They've gone down over 50% in *one year*.
+Comment by Garethx1: I thought it might be more common than I guessed. Something i didnt even think of is that people in Massachusetts who have municipal electric would be interested in batteries. Apparently for some weird reason the law prevents you from selling back to the electric company if you have municipal electric so some of the benefit is reduced.
+Comment by None: They're lying to you, bud. They're continuing to build solar farms, they just don't want any competition (you).
+Comment by co-oper8: Gotcha
+Comment by Didntlikedefaultname: Where did you get that? Just to be clear I am talking 50 degrees Fahrenheit
+Comment by Didntlikedefaultname: Not sure why?
+Comment by Didntlikedefaultname: Genuinely don’t know too much about Texas weather but is that a big departure from the norm for January?
+Comment by Lost-Cabinet4843: I take it you don't want to buy some solar panels from me.
+Comment by Lost-Cabinet4843: Covered in snow here ATM and we had a big energy draw with roving blackouts.  Solar contributed zero MW to it because.. well, they were useless.
+Comment by Inconceivable76: I don’t think it’s correct to call regressive subsidies DEI.
+Comment by NavyDean: Not on a laptop atm so I can't dig up the equity report. But basically, polysillicon isn't going to go down much more and only inflation remains now on the products/services surrounding solar. 
+
+
+If you wanted to install your own solar panels, it'd be cheapest in 23/24 b4 prices go up.
+Comment by Visinvictus: Hydrogen will never be used for energy storage or as a source of green energy. The process to produce hydrogen and then convert it back into electricity has a 75% energy loss rate, so you would need to generate 4x more energy with solar or other sources. It's just not viable compared to other emerging energy storage technologies like sodium ion batteries.
+Comment by 14mmwrench: Market saturation. Everybody who wanted, could afford them, or could be duped in to some contract has them has them. 60% of my neighborhood has them. 
+Comment by chris_ut: As someone involved in energy projects I can tell you that panel costs are the least of your considerations
+Comment by WinPrize9339: Ah sorry, I stay in the UK and work as an electrician on a nuclear power plant and we have just installed solar PV outside our plant. Just been through the courses where they show you optimal working temps etc and that is what the guy said on our course.
+Comment by Inconceivable76: Because a huge cold front came through last night.  Like many cold fronts, there was a warm push ahead of the cold front.
+Comment by Jeff__Skilling: Yes. And we just had the second hottest August on record with 28 days of +100 degree heat.
+Comment by trader_dennis: Taking away regressive subsidies is.  And I never commented if California was making a correct or incorrect choice. What my comments are that these changes have a substantial negative impact for solar stock which is the original question.
+Comment by Sexyvette07: Who said anything about converting it back? Wtf are you talking about? I was talking about the hydrogen creation process (which uses a lot of electricity) and using solar to offset that cost/burden on the grid.
+Comment by Didntlikedefaultname: Gotcha and I presume you are using Celsius then which would make more sense. We would be in serious trouble if our January temps were 50 degrees Celsius!
+Comment by Visinvictus: Uhhh... What do you think you do with hydrogen after you make it? At that point the only thing it is good for is burning it for electricity or flying gigantic explosive blimps. To store the energy you convert water into hydrogen/oxygen with electricity and store it in a tank. Then later you burn it to make electricity. For every 100 units of electricity you put in to generate the hydrogen in the first place, you only get back 25 units after burning the stored hydrogen. It's just a really inefficient process compared to batteries where you maintain about 80- 90% of the stored energy depending on battery chemistry.
+Comment by WinPrize9339: 😂😂 yeah I’m not sure what the weather was like over there just now we’re at the back end of our winter so starting to get a bit warmer soon. Obviously global warming is a bad thing but in the uk it’s less than 25 degrees Celsius the majority of the year so I suppose solar will become more effective here over time🤷🏻‍♂️
+Comment by Sexyvette07: > What do you think you do with hydrogen after you make it?
+
+Not turn it back into electricity? Wtf would even be the point of doing that? I'm talking about powering hydrogen cars and the such.
+
+You're WAY out in left field with this one.
+Comment by Visinvictus: Are you obtuse? How do you think a hydrogen powered car will work? It burns the hydrogen, you still get 25% of the energy back. Also hydrogen will never work as a fuel source for cars, because there is zero way that the infrastructure for it will ever be built. BEVs have already won that war.  Even with billions of dollars of government funding for hydrogen fuel cell technology, there are only 58 hydrogen fueling stations in all of the US, 57 of which are in California. It's basically the beta-max of vehicle fuel technologies.
+
+The only country using hydrogen in large scale right now is Korea, and they use it in a way that is actually less environmentally friendly than if they just burned the methane that they get all of their hydrogen from.
+Comment by Sexyvette07: https://en.m.wikipedia.org/wiki/Hydrogen_production#:~:text=Water%20electrolysis%20is%20using%20electricity,efficiency%20between%2070%20and%2085%25.
+
+I dont know where you are getting this ridiculous notion that you only get back 25% of the energy you put into hydrogen, but you should give that a read. The current process that still lacks refinement and efficiency is still 75-80% efficient, and that will keep going up as the process matures. Also, I was talking about electrolysis and using solar to power the process, genius. We are talking about renewable energy, remember?
+
+The infrastructure is being built as we speak. Hydrogen cars aren't even expected to see production until late this year, so I don't know why you have this ridiculous expectation that the infrastructure already be built for something that doesn't yet exist. News flash bro, charging infrastructure didnt exist until it needed to. Tesla released their first vehicle in 2008, yet the overwhelming majority of their charging infrastructure wasn't built until after 2020. Also, know where it gets its electricity from? The grid. How does the grid generate the majority of its energy? Fossil fuels. So you shouldn't throw stones from glass houses.
+
+But you're the type who thinks they know everything, so I guess we will just wait and see who's right.
+Title : Going long term in 2024
+Rate this list
+
+Just putting money into these 15 for the next year what do y’all think,: FSPGX, FSKAX, FXNAX, FTIHX, SCHD, BRK.B, TSLA, AMZN, ENPH, BABA, MSFT, RTX, RIVN, SOFI, XOM
+5 funds/Etf, 10 individual stocks and just adding to as much as possible for the next year. Then maybe change up next year but pretty much I’m going long term just would like feedback back if ya have any suggestionsComment by KaizenCo: First of all, one year is not long term. Secondly, almost everything you listed is arguably overvalued except BABA which has Chinese government risk attached so good luck. You'll probably be fine but don't be shocked if half those tickers are negative for the year. Not a prediction but just be prepared. Do you have enough conviction in each of these companies to hold them and add to them if their value was quickly cut in half?
+Comment by macklinjohnny: I like BABA and SOFI. Baba worries me bc of China. But it’s definitely undervalued if you just look at their books. Damn China lol
+Comment by dansdansy: If you want to go truly long term, like saving for a house in ten years or something like that, buy a low fee S&P500 etf every paycheck. One year isn't long term. Don't overcomplicate it. Don't go all in all at once at this price level. Thank me later. I'd recommend the equal weight fund RSP until large cap tech cools off. If that happens start adding VOO or IVV instead. 
+
+Use the time you spend building up the foundation in the etf doing some deep research on individual stock picks you'd want to hold for 10 years. Stay very patient on individual stock picks and buy when the price seems fair-after fully understanding the company's business, markets, and risks (including legal, geopolitical, competition, disruption etc)
+Comment by None: I'm bearish on Tesla. i think growth will slow. Too much competition, erratic CEO, insane P/E ratio, recalls, questionable new product (Cyber truck).
+Comment by yellowdaysss: well.. how long? & how muchv
+Comment by None: [deleted]
+Comment by Dzukocrypto: No O? Amazing😁
+Comment by None: [deleted]
+Comment by None: [deleted]
+Comment by 1foxyboi: I don't understand what you're trying to achieve with those 15 stocks
+Comment by None: AMZN is not overvalued right now.
+Comment by SpliTTMark: Msft was flat for 10-15 years
+
+Sometimes you have red years
+Comment by askepticoptimist: RTX and XOM aren't overvalued, especially the latter.  Oil stocks have solid off big time with the commodity decline.
+Comment by DanielzeFourth: What is the intrinsic value of Amazon and Enphase since you know.
+Comment by Cute_Win_4651: Sounds like a buying opportunity if they were cut in half buy the dip lol I’m trying to build a long term positions
+Comment by Cute_Win_4651: Next 10 years and dca over time
+Comment by Cute_Win_4651: With as much as I can
+Comment by Cute_Win_4651: AMD , I like what your saying
+Comment by Cute_Win_4651: Had O, sold O, willing to buy back O.
+Comment by Cute_Win_4651: One is large cap growth, one is total market, one is international and one is bonds and the etf is SCHD the dividend play
+Comment by Massive-Quarter-4156: Just answer the query, sub is called r/stocks FFS!
+Comment by Cute_Win_4651: Is that what you do just one index fund and nothing else
+Comment by Cute_Win_4651: Swings and that they are all decent companies minus rivn and Sofi and the index funds/etf and to start building out for the next 10 years plus
+Comment by Spl00ky: "But the P/E is 77! I don't care if the P/E of Amazon was 718 on September 30th 2015 and went up 450% after. It's still overvalued!"
+
+https://www.macrotrends.net/stocks/charts/AMZN/amazon/pe-ratio
+Comment by yellowdaysss: I'd try to diversify less. If you're holding for that long.
+Comment by fake-name-here1: So first off, yes you are right. This is stocks - get advice on individual stocks. 
+
+But to add context to this post OP has an account of $5000. Divided amongst 15 individual investments that’s approx $333 per ticker. Combined with the fact that some of the tickers are themselves etfs of many companies, this is ridiculous. 
+
+
+Let’s say Tesla, or any of the 15, went absolutely insane and doubled this year… that’s only an extra $333 in this account. 
+
+Is it worth the headache of balancing and stressing about it?
+
+Edit to add reference: 
+https://www.reddit.com/r/BerkshireHathaway/s/RKmSLagnvq
+Comment by fake-name-here1: For your account size, yes. One etf.
+Comment by 1foxyboi: I guess I'm not sure what you mean. Many companies are decent companies so why these ones
+Comment by None: Yeah… lol exactly. 
+
+I saw people on here saying $90 was overweight in Feb 2023 and they wouldn’t recommend buying. 
+
+Thank god I didn’t listen to them.
+Comment by Cute_Win_4651: Less? Like less index funds because one is large cap growth, one is whole international market, one is total market and one is bonds then a SCHD dividend etf, or your saying less individual companies because I’m cool with just rolling with brk.b and TSLA really
+Comment by Cute_Win_4651: Because when I look at there price I feel in years to come  todays price will be considered cheap
+Comment by yellowdaysss: Less individual companies forsure. You diversify your portfolio so your losses aren't so dependent on a few stocks. But if you're holding for ten years, you won't have losses unless the world goes to shit (COVID).
+Comment by 1foxyboi: Not saying you're right or wrong, rather it seems like you're just speculating and want confirmation bias from the community
+Comment by Cute_Win_4651: Would you hold maybe 3 funds and 5 individual stocks???
+Comment by Cute_Win_4651: I personally hope the market crashes better buying opportunity
+Comment by Cute_Win_4651: Nah just more of a community input like yeah I’m in those too or no those are wack stocks because xyz, I know what I’m going to do I just like hearing what others are up to but hey thanks for the input anyways buddy
+Comment by yellowdaysss: I can't see myself holding for 10 years to be honest but I think 5 funds & 3-5 stocks is much better of a pool.
+
+I'd be very picky with the individual stocks. People want to talk about tech & how it will continue to grow (AI, etc.) but it's not the only thing.
+
+It'll be #1 but there's gains in the other slots too aside from just tech.
